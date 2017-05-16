@@ -15,3 +15,8 @@ Each folder is a self contained dataset, which includes:
 | Site Class    | Information on site class/characteristics for GeoNet sites  |
 
 Note: The GeoNet website refers to the master branch for downloading this data through the website. Everything is the master branch requires review. Other branches might have more up to date information that is awaiting review and merging with master.
+
+## Help with these datasets
+
+For help, or to notify us about issues with the datasets in this repository, please see https://github.com/GeoNet/help.
+
