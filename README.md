@@ -7,7 +7,7 @@ Each folder is a self contained dataset, which includes:
  - the files that contain the data
  - some tests that provide some sanity checks on the data
  
- ## Datasets currently in this repository
+## Datasets currently in this repository
  
 | Dataset Name  | Description   |
 | ------------- | ------------- |
