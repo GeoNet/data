@@ -1,4 +1,4 @@
-#Site Class Information
+# Site Class Information
 
 These data are related to the site class and characteristics at locations of GeoNet instrumentation. There are two site class databases.
 - A concise summary of site class information that is used in the New Zealand Strong Motion Database

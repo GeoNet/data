@@ -1,4 +1,4 @@
-#Concise Site Class Database
+# Concise Site Class Database
 
 GNS Science. 2016. Database of site metadata for GeoNet strong motion stations. GNS Science. [http://dx.doi.org/10.21420/G26P4C](http://dx.doi.org/10.21420/G26P4C "http://dx.doi.org/10.21420/G26P4C")
 
@@ -8,7 +8,7 @@ Kaiser, A.; Van Houtte, C.; Perrin, N.; Wotherspoon, L.; McVerry, G. (2017). "Si
 
 Please cite this article when using the database, as well as site-specific references in this list where appropriate. 
 
-##References
+## References
  
 - Barker, P.R. (1994). "Report on cone penetrometer and seismic cone penetrometer testing at selected sites in lower North Island". Report prepared by Barker Consulting for Engineering Seismology Section, Institute of Geological & Nuclear Sciences, April.
 - Barker, P.R. (1996).  "Report on cone penetrometer and seismic cone penetrometer testing at six sites in the South Island". Report prepared by Barker Consulting for Engineering Seismology Section, Institute of Geological  Nuclear Sciences, March.

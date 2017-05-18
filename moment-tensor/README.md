@@ -1,4 +1,4 @@
-#Moment Tensors
+# Moment Tensors
 
 The moment tensor solution describes the source mechanism of an earthquake - the geometry of how the fault ruptured in the earthquake. 
 
@@ -23,7 +23,7 @@ Tva, Tpl, Taz | value, plunge and azimuth for tension axis |
 Nva, Npl, Naz | value, plunge and azimuth for null axis |
 Pva, Ppl, Paz | value plunge and azimuth for compression  axis. |
 
-###Notes:
+### Notes:
 - The Dusky Sound (20090715092200) earthquake is the USGS W-phase solution as a reliable regional moment tensor solution could not be calculated.
 - The Kaikoura (20161113110200) earthquake is the USGS W-phase solution as a reliable regional moment tensor solution could not be calculated.
 -  Event ID's with 9999999 are events for which no event ID is currently available.
