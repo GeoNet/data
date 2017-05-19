@@ -5,7 +5,7 @@ The purpose of this repository is to provide a home for several datasets that Ge
 Each folder is a self contained dataset, which includes:
  - a readme file with a description of the data
  - the files that contain the data
- - some tests that provide some sanity checks on the data
+ - some tests that provide some sanity checks on the data (optional)
  
  ## Datasets currently in this repository
  
