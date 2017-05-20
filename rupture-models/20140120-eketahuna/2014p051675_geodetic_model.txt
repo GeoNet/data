@@ -1,0 +1,17 @@
+No precise GPS data about the fault plane
+
+
+
+Information about the geodetic mean slip model:
+
+lon = 175.8650
+lat = -40.6206
+strike = 215
+dip = 60
+rake = -100
+slip (m) = 0.712659
+length (m) = 11481.5
+width (m) = 11500
+depth (m) = 15500
+easting (m) = 403998.5
+northing (m) = 5502739.4
