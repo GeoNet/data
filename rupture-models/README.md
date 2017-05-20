@@ -6,18 +6,18 @@ Each folder contains the rupture models for each of the following events.
 
 | Date       | Event                     | Seismic Data | Geodetic Data | PublicID                                 |
 | ---------- | ------------------------- | ------------ | ------------- | ---------------------------------------- |
-| 14/02/2016 | Christchurch M5.7         | X            | X             | [2016p118944](https://geonet.org.nz/quakes/region/newzealand/2016p118944) |
-| 20/01/2014 | Eketahuna M6.2            | X            |               | [2014p051675](https://geonet.org.nz/quakes/region/newzealand/2014p051675) |
-| 16/08/2013 | Lake Grassmere M6.6       | X            | X             | [2013p613797](https://www.geonet.org.nz/quakes/region/newzealand/2013p613797) |
-| 21/07/2013 | Cook Strait M6.5          | X            | X             | [2013p543824](https://www.geonet.org.nz/quakes/region/newzealand/2013p543824) |
-| 23/12/2011 | Christchurch M5.9 and 5.8 | X            | X             | [3631380](https://geonet.org.nz/quakes/region/newzealand/3631380) and [3631359](https://geonet.org.nz/quakes/region/newzealand/3631359) |
-| 13/05/2011 | Christchurch M6.0         | X            | X             | [3528839](https://geonet.org.nz/quakes/region/newzealand/3528839) |
-| 22/02/2011 | Christchurch M6.2         | X            | X             | [3468575](https://geonet.org.nz/quakes/region/newzealand/3468575) |
-| 04/09/2010 | Darfield M7.1             | X            | X             | [3366146](https://geonet.org.nz/quakes/region/newzealand/3366146) |
-| 15/07/2009 | Dusky Sound M7.8          | X            | X             | [3124785](https://geonet.org.nz/quakes/region/newzealand/3124785) |
-| 20/12/2007 | Gisborne M6.7             | X            |               | [2839343](https://geonet.org.nz/quakes/region/newzealand/2839343) |
-| 15/10/2007 | George Sound M6.7         | X            |               | [2808298](https://geonet.org.nz/quakes/region/newzealand/2808298) |
-| 21/08/2003 | Fiordland M7.1            | X            |               | [2103645](https://geonet.org.nz/quakes/region/newzealand/2103645) |
+| 14/02/2016 | [Christchurch M5.7](20160214-christchurch)         | X            | X             | [2016p118944](https://geonet.org.nz/quakes/region/newzealand/2016p118944) |
+| 20/01/2014 | [Eketahuna M6.2](20140120-eketahuna)            | X            |               | [2014p051675](https://geonet.org.nz/quakes/region/newzealand/2014p051675) |
+| 16/08/2013 | [Lake Grassmere M6.6](20130816-lake-grassmere)       | X            | X             | [2013p613797](https://www.geonet.org.nz/quakes/region/newzealand/2013p613797) |
+| 21/07/2013 | [Cook Strait M6.5](20130721-cook-strait)          | X            | X             | [2013p543824](https://www.geonet.org.nz/quakes/region/newzealand/2013p543824) |
+| 23/12/2011 | [Christchurch M5.9 and 5.8](20111223-christchurch) | X            | X             | [3631380](https://geonet.org.nz/quakes/region/newzealand/3631380) and [3631359](https://geonet.org.nz/quakes/region/newzealand/3631359) |
+| 13/05/2011 | [Christchurch M6.0](20110513-christchurch)         | X            | X             | [3528839](https://geonet.org.nz/quakes/region/newzealand/3528839) |
+| 22/02/2011 | [Christchurch M6.2](20110222-christchurch)         | X            | X             | [3468575](https://geonet.org.nz/quakes/region/newzealand/3468575) |
+| 04/09/2010 | [Darfield M7.1](20100904-darfield)             | X            | X             | [3366146](https://geonet.org.nz/quakes/region/newzealand/3366146) |
+| 15/07/2009 | [Dusky Sound M7.8](20090715-dusky-sound)          | X            | X             | [3124785](https://geonet.org.nz/quakes/region/newzealand/3124785) |
+| 20/12/2007 | [Gisborne M6.7](20071220-gisborne)             | X            |               | [2839343](https://geonet.org.nz/quakes/region/newzealand/2839343) |
+| 15/10/2007 | [George Sound M6.7](20071015-george-sound)         | X            |               | [2808298](https://geonet.org.nz/quakes/region/newzealand/2808298) |
+| 21/08/2003 | [Fiordland M7.1](20030821-fiordland)            | X            |               | [2103645](https://geonet.org.nz/quakes/region/newzealand/2103645) |
 
 ### Reference Papers
 
