@@ -1,0 +1,15 @@
+Data Policy
+
+If we have helped you, please acknowledge us!
+All data and images are made available free of charge through the GeoNet project to facilitate research into hazards and assessment of risk. GeoNet is sponsored by the New Zealand Government through its agencies: Earthquake Commission (EQC), GNS Science and Land Information New Zealand (LINZ). The use of data or images is subject to the following conditions:
+Users are requested to acknowledge the GeoNet project sponsors as the source of the data or images. (Suggested text: We acknowledge the New Zealand GeoNet project and its sponsors EQC, GNS Science and LINZ, for providing data/images used in this study.)
+The GeoNet project sponsors accept no liability for any loss or damage, direct or indirect, resulting from the use of the data or images provided.
+The GeoNet project sponsors do not make any representation in respect of the information's accuracy, completeness or fitness for any particular purpose.
+
+Disclaimer
+
+Please read these terms of use. Use of this website and the information on it will be deemed to be acceptance of these terms.
+The GeoNet project is core funded by the Earthquake Commission (EQC) to facilitate improved detection and understanding of geological hazards. This website is designed, installed and operated by GNS Science under the GeoNet project.
+All reasonable endeavours are made to ensure the accuracy of the information on this website. However, as there is uncertainty inherent in information concerning geohazards, especially as regards any prediction of future events, the information on this website is provided without warranties of any kind including accuracy, completeness, timeliness or fitness for any particular purpose.
+GNS Science and EQC exclude to the full extent permitted by law liability for any loss, damage or expense, direct or indirect, and however caused, whether through negligence or otherwise, resulting from any person or organisation's use of, or reliance on, the information provided on this website.
+Under the GeoNet project the information on this website is made freely available to the public and may be used subject to these terms.
