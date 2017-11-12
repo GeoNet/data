@@ -17,13 +17,14 @@ Mo | seismic moment (dyne.cm) |
 CD | centroid depth (km) |
 NS | number of stations used to calculate solution |
 DC | percent double-couple |
-Mxx, Mxy, Mxz, Myy, Myz, Mzz | moment tensor elements |
+Mxx, Mxy, Mxz, Myy, Myz, Mzz | moment tensor elements - scale 1E20 dyne.cm |
 VR | percent variance reduction for solution |
 Tva, Tpl, Taz | value, plunge and azimuth for tension axis |
 Nva, Npl, Naz | value, plunge and azimuth for null axis |
 Pva, Ppl, Paz | value plunge and azimuth for compression  axis. |
 
 ### Notes:
+- Moment tensor element scale is 1E20 dyne.cm, i.e. moment tensor elements need to be multiplied by 1E20 to convert to dyne.cm.
 - The Dusky Sound (20090715092200) earthquake is the USGS W-phase solution as a reliable regional moment tensor solution could not be calculated.
 - The Kaikoura (20161113110200) earthquake is the USGS W-phase solution as a reliable regional moment tensor solution could not be calculated.
 -  Event ID's with 9999999 are events for which no event ID is currently available.
