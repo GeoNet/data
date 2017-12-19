@@ -6,7 +6,7 @@ Each folder contains the rupture models for each of the following events.
 
 | Date       | Event                     | Seismic Data | Geodetic Data | PublicID                                 |
 | ---------- | ------------------------- | ------------ | ------------- | ---------------------------------------- |
-| 14/11/2016 | [Kaik&‌#333;ura M7.8](20161114-kaikoura)               | X            | X             |  [2016p858000](https://www.geonet.org.nz/quakes/region/newzealand/2016p858000) |
+| 14/11/2016 | [Kaik&‌#x014D;ura M7.8](20161114-kaikoura)               | X            | X             |  [2016p858000](https://www.geonet.org.nz/quakes/region/newzealand/2016p858000) |
 | 14/02/2016 | [Christchurch M5.7](20160214-christchurch)         | X            | X             | [2016p118944](https://geonet.org.nz/quakes/region/newzealand/2016p118944) |
 | 20/01/2014 | [Eketahuna M6.2](20140120-eketahuna)            | X            |               | [2014p051675](https://geonet.org.nz/quakes/region/newzealand/2014p051675) |
 | 16/08/2013 | [Lake Grassmere M6.6](20130816-lake-grassmere)       | X            | X             | [2013p613797](https://www.geonet.org.nz/quakes/region/newzealand/2013p613797) |
@@ -38,7 +38,7 @@ Holden, C. and Beavan, J. (2012). "Source studies of the ongoing (2010-2011) seq
 
 Holden, C., Kaiser, A., Van Dissen, R. and Jury, R. (2013). "Sources, ground motion and structural response characteristics in Wellington of the 2013 Cook Strait earthquakes". *Bulletin of the New Zealand Society for Earthquake Engineering,* **46**(4), 188-195.
 
-Holden, C., Kaneko, Y., D'Anastasio, E., Benites, R., Fry, B. and Hamling, I. (2017) "The 2016 Kaik&‌#333;ura Earthquake Revealed by Kinematic Source Inversion and Seismic Wavefield Simulations: Slow Rupture Propagation on a Geometrically Complex Crustal Fault Network". *Geophysical Research Letters,* http://dx.doi.org/10.1002/2017GL075301.
+Holden, C., Kaneko, Y., D'Anastasio, E., Benites, R., Fry, B. and Hamling, I. (2017) "The 2016 Kaik&‌#x014D;ura Earthquake Revealed by Kinematic Source Inversion and Seismic Wavefield Simulations: Slow Rupture Propagation on a Geometrically Complex Crustal Fault Network". *Geophysical Research Letters,* http://dx.doi.org/10.1002/2017GL075301.
 
 Hamling, I., D'Anastasio, E., Wallace, L., Ellis, S., Motagh, M., Samsonov, S., Palmer, N. and Hreinsdóttir, S. (2014). "Crustal deformation and stress transfer during a propagating earthquake sequence: The 2013 Cook Strait sequence, central New Zealand". *Journal of Geophysical Research: Solid Earth,* **119**(7), 6080-6092.
 
