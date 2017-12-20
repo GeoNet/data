@@ -6,6 +6,8 @@ Updates since publication are:
 - the addition of the data from the Kaikoura earthquake; and,
 - removal of 25 duplicate recordings from co-located, concurrently recording sensors with different station codes.
 
+For more data products please see the [NZSMD webpage](http://www.geonet.org.nz/data/supplementary/nzsmdb).
+
 ### Reference Papers
 
 Kaiser, A., Van Houtte, C., Perrin, N., Wotherspoon, L. and McVerry, G. (2017), "Site characterisation of GeoNet stations for the New Zealand Strong Motion Database".  *Bulletin of the New Zealand Society for Earthquake Engineering*, **50**(1), 39-49.
