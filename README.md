@@ -15,7 +15,7 @@ Each folder is a self contained dataset, which includes:
 | [Site Class](site-class)    | Information on site class/characteristics for GeoNet sites  |
 | [Rupture Models](rupture-models) | Seismic and geodetic fault models for significant earthquakes |
 | [Strong Motion Peaks](strong-motion-peaks) | Summary files of peak strong motion measurements |
-| [Strong Motion Flatfiles](strong-motion-flatfiles) | Compilation of specially-processed strong motion data and associated metadata|
+| [Strong Motion Flatfiles](nzsmd-flatfiles) | Compilation of specially-processed strong motion data and associated metadata|
 
 Note: The GeoNet website refers to the master branch for downloading this data through the website. Everything is the master branch requires review. Other branches might have more up to date information that is awaiting review and merging with master.
 
