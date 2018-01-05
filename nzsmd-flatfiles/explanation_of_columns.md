@@ -25,7 +25,7 @@
 | | geonet → standard GeoNet catalogue |
 | | nlloc → relocation using the NonLinLoc algorithm |
 | | simulps → relocation using the SimulPS algorithm |
-| | fdsn → the FDSN catalogue |
+| | irisdmc → the IRIS DMC catalogue (mostly for older events) |
 | HypLat | Hypocenter latitude |
 | HypLon | Hypocenter longitude |
 | StationLat | Latitude of recording station |
