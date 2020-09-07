@@ -12,35 +12,35 @@ New Zealand has had three versions of its VAL system. The current [VAL](https://
 | 3 | since 2014-07-01 |
 
 ### Version 1
-| VAL | Volcanic Activity |
+| VAL | Scientific Interpretation |
 | --- | --- |
-| 0 | activity 0 |
-| 1 |  activity 1|
-| 2 |  activity 2|
-| 3 |  activity 3|
-| 4 |  activity 4|
-| 5 |  activity 5|
+| 0 | ??? |
+| 1 |  Initial sign of volcano reawakening; no eruption imminent; possible minor activity |
+| 2 |  Indicators of intrusion process or significant change in on-going eruptive activity |
+| 3 |  If increasing trends continue there is a real possibility of hazardous eruptive activity |
+| 4 |  Hazardous volcanic eruption is now imminent |
+| 5 |  Destruction within the Permanent Danger Zone (red zone) and significant risk over wider area |
 
 ### Version 2
-| VAL | Volcanic Activity |
+| VAL | Volcanic Status |
 | --- | --- |
-| 0 | activity 0 |
-| 1 |  activity 1|
-| 2 |  activity 2|
-| 3 |  activity 3|
-| 4 |  activity 4|
-| 5 |  activity 5|
+| 0 | Usual dormant, or quiescent state |
+| 1 | Signs of volcano unrest |
+| 2 | Minor eruptive activity |
+| 3 | Significant local eruption in progress |
+| 4 | Hazardous local eruption in progress |
+| 5 | Large hazardous eruption in progress |
 
 ### Version 3
 More detailed documentation of version 3, is available on the [GeoNet website](https://www.geonet.org.nz/about/volcano/val).
 | VAL | Volcanic Activity |
 | --- | --- |
 | 0 | No volcanic unrest |
-| 1 |  Minor volcanic unrest |
-| 2 |  Moderate to heightened volcanic unrest |
-| 3 |  Minor volcanic eruption |
-| 4 |  Moderate volcanic eruption |
-| 5 |  Major volcanic eruption |
+| 1 | Minor volcanic unrest |
+| 2 | Moderate to heightened volcanic unrest |
+| 3 | Minor volcanic eruption |
+| 4 | Moderate volcanic eruption |
+| 5 | Major volcanic eruption |
 
 ## Description of Files and Data Fields
 
