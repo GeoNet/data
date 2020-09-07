@@ -3,7 +3,7 @@
 New Zealand uses a Volcanic Alert Level (VAL) system to define the current status of each volcano. This is used to guide any appropriate response. The VAL is decided by a Volcano Monitoring Group at GNS Science; it is publicised using a [Volcanic Alert Bulletin](https://www.geonet.org.nz/volcano/vab/) (VAB), and on the [GeoNet Website](https://www.geonet.org.nz/).
 
 ## VAL Versions
-New Zealand has had three versions of its VAL system. The current [VAL](https://www.geonet.org.nz/about/volcano/val) system, version 3, was first used in July 2014.
+New Zealand has had three versions of its VAL system. The current [VAL](https://www.geonet.org.nz/about/volcano/val) system, version 3, was first used in July 2014. A [publication](https://link.springer.com/article/10.1186/s13617-014-0013-7) dicusses the use of volcanic alert levels and development of version 3.
 
 | VAL Version | Dates Used |
 | --- | --- |
