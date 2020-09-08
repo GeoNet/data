@@ -14,7 +14,6 @@ New Zealand has had three versions of its VAL system. The current [VAL](https://
 ### Version 1
 | VAL | Scientific Interpretation |
 | --- | --- |
-| 0 | ??? |
 | 1 |  Initial sign of volcano reawakening; no eruption imminent; possible minor activity |
 | 2 |  Indicators of intrusion process or significant change in on-going eruptive activity |
 | 3 |  If increasing trends continue there is a real possibility of hazardous eruptive activity |
