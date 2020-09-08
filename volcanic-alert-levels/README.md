@@ -58,7 +58,7 @@ Files exist for each volcano at which the VAL has been changed. If a file does n
 - The date and time of a VAL change is provided in UTC to support easy integration with other GeoNet data sets which also use UTC. 
 - Stakeholder groups that may be more interested in response actions to VAL changes are more likely to work in local time; a VAL change is also provided in NZST or NZDT to support those users.
 - For some older VAL changes, the date of a change is know, but not the time. In those cases, the time has arbitrarily been set to 12:00:00, midday NZ local time.
-- The VAL value is numeric, ranging from r10 to 5 in versioni 1, and 0 to 5 in versions 2 and 3.
+- The VAL value is numeric, ranging from r10 to 5 in version 1, and 0 to 5 in versions 2 and 3.
 - The description gives the officially agreed meaning of the VAL value.
 - The VAL version shows the version in operation when the VAL change was made.
 
