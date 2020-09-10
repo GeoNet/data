@@ -22,11 +22,22 @@ VR | percent variance reduction for solution |
 Tva, Tpl, Taz | value, plunge and azimuth for tension axis |
 Nva, Npl, Naz | value, plunge and azimuth for null axis |
 Pva, Ppl, Paz | value plunge and azimuth for compression  axis. |
+Method | method used to calculate solution (see table below for dates) |
+
+
+Method ID | Dates Used
+-------| -----------
+1 | 2003/08/21 to 2020/06/18
+2 | since 2020/06/19
+
 
 ### Notes:
 - Moment tensor element scale is 1E20 dyne.cm, i.e. moment tensor elements need to be multiplied by 1E20 to convert to dyne.cm.
 - The Dusky Sound (20090715092200) earthquake is the USGS W-phase solution as a reliable regional moment tensor solution could not be calculated.
 - The Kaikoura (20161113110200) earthquake is the USGS W-phase solution as a reliable regional moment tensor solution could not be calculated.
--  Event ID's with 9999999 are events for which no event ID is currently available.
--  Beginning 5 September 2012 event ID/location/ML come from SeisComP3
--  n/a values are for solutions from external agencies where the parameters were not available. 
+- Event ID's with 9999999 are events for which no event ID is currently available.
+- Beginning 5 September 2012 event ID/location/ML come from SeisComP3
+- n/a values are for solutions from external agencies where the parameters were not available. 
+- Up to 18/06/2020 solutions were calculated using code from Doug Dreger at Berkeley Seismological laboratory and documented in Ristau, J. (2013). Update of Regional Moment Tensor Analysis for Earthquakes in New Zealand and Adjacent Offshore Regions. Bull. Seism. Soc. Amer., 103, 2520-2533. These solutions are designated '1' in the method column. https://doi.org/10.1029/93JB00023
+- From 18/06/2020 solutions are calculated using inversion code from Charles Ammon at Penn State University. Code is available from 'Computer Programs in Seismology' as compiled by Robert Herrmann, St. Louis University. All solutions since 18/06/2020 are calculated with this method, along with a number of past earthquakes.  These solutions are designated '2' in the method column. http://www.eas.slu.edu/eqc/eqccps.html.
+
