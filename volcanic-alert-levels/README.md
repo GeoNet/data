@@ -58,11 +58,14 @@ Files exist for each volcano at which the VAL has been changed. If a file does n
 - The date and time of a VAL change is provided in UTC to support easy integration with other GeoNet data sets which also use UTC. 
 - Stakeholder groups that may be more interested in response actions to VAL changes are more likely to work in local time; a VAL change is also provided in NZST or NZDT to support those users.
 - For some older VAL changes, the date of a change is know, but not the time. In those cases, the time has arbitrarily been set to 12:00:00, midday NZ local time.
-- The VAL value is numeric, ranging from r10 to 5 in version 1, and 0 to 5 in versions 2 and 3.
+- The VAL value is numeric, ranging from 1 to 5 in version 1, and 0 to 5 in versions 2 and 3.
 - The description gives the officially agreed meaning of the VAL value.
 - The VAL version shows the version in operation when the VAL change was made.
 
 ### Initial Value
-The first data row in the file establishes the initial VAL for that volcano. While all volcanoes have a 'base' VAL of zero, in practice, Ruapehu and Whakaari/White Island have never had a VAL lower than 1.
-An initial VAL facilitates easier visualization of VAL changes.
+The first data row in the file establishes the initial VAL for that volcano, in the VAL version when a VAL for that volcano was first assigned. In the current VAL version, version 3, all volcanoes have a 'base' VAL of zero, but in practice, Ruapehu and Whakaari/White Island have never had a VAL lower than 1.
 
+An initial VAL value facilitates easier visualization of VAL changes.
+
+## Current VAL
+The current VAL values for all New Zealand volcanoes can be view on the [GeoNet website](https://www.geonet.org.nz/volcano). An accompnaying map shows the location of each volcano.

@@ -1,8 +1,8 @@
 Date UTC,Date NZtime,VAL,Description,VAL Version
-1994-11-30T23:00:00Z,1994-12-01 12:00:00 NZDT,1,Signs of volcano unrest,1
-1995-01-13T23:00:00Z,1995-01-14 12:00:00 NZDT,2,Minor eruptive activity,1
-1995-04-04T00:00:00Z,1995-04-04 12:00:00 NZST,1,Signs of volcano unrest,1
-1995-04-27T00:00:00Z,1995-04-27 12:00:00 NZST,2,Minor eruptive activity,1
+1994-11-30T23:00:00Z,1994-12-01 12:00:00 NZDT,1,Initial sign of volcano reawakening; no eruption imminent; possible minor activity,1
+1995-01-13T23:00:00Z,1995-01-14 12:00:00 NZDT,2,Indicators of intrusion process or significant change in on-going eruptive activity,1
+1995-04-04T00:00:00Z,1995-04-04 12:00:00 NZST,1,Initial sign of volcano reawakening; no eruption imminent; possible minor activity,1
+1995-04-27T00:00:00Z,1995-04-27 12:00:00 NZST,2,Indicators of intrusion process or significant change in on-going eruptive activity,1
 1995-09-12T00:00:00Z,1995-09-12 12:00:00 NZST,1,Signs of volcano unrest,2
 1995-09-21T00:00:00Z,1995-09-21 12:00:00 NZST,2,Minor eruptive activity,2
 1995-09-23T00:00:00Z,1995-09-23 12:00:00 NZST,3,Significant local eruption in progress,2
