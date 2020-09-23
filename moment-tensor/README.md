@@ -38,6 +38,17 @@ Method ID | Dates Used
 - Event ID's with 9999999 are events for which no event ID is currently available.
 - Beginning 5 September 2012 event ID/location/ML come from SeisComP3
 - n/a values are for solutions from external agencies where the parameters were not available. 
-- Up to 18/06/2020 solutions were calculated using code from Doug Dreger at Berkeley Seismological laboratory and documented in Ristau, J. (2013). Update of Regional Moment Tensor Analysis for Earthquakes in New Zealand and Adjacent Offshore Regions. Bull. Seism. Soc. Amer., 103, 2520-2533. These solutions are designated '1' in the method column. https://doi.org/10.1029/93JB00023
-- From 18/06/2020 solutions are calculated using inversion code from Charles Ammon at Penn State University. Code is available from 'Computer Programs in Seismology' as compiled by Robert Herrmann, St. Louis University. All solutions since 18/06/2020 are calculated with this method, along with a number of past earthquakes.  These solutions are designated '2' in the method column. http://www.eas.slu.edu/eqc/eqccps.html.
 
+## Moment Tensor Methods
+
+### Method 1
+Solutions calculated using code from Doug Dreger at Berkeley Seismological laboratory and documented in Ristau, J. (2013). 
+
+### Method 2
+Solutions are calculated using inversion code from Charles Ammon at Penn State University. Code is available from Hermann, R.B. (2013); http://www.eas.slu.edu/eqc/eqccps.html. All solutions since 18/06/2020 are calculated with this method, along with a number of past earthquakes. 
+
+### Reference Papers
+
+Ristau, J. (2013). "Update of Regional Moment Tensor Analysis for Earthquakes in New Zealand and Adjacent Offshore Regions". *Bulletin of the Seismological Society of America*., ***103***, 2520-2533. https://doi.org/10.1029/93JB00023
+
+Herrmann, R. B. (2013). "Computer programs in seismology: An evolving tool for instruction and research", *Seism. Res. Lettr.* ***84***, 1081-1088. https://doi:10.1785/0220110096
