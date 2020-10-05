@@ -53,7 +53,7 @@ The files in this repository contain a complete record of VAL values at New Zeal
 | PeriodStart UTC | The UTC date and time from when the VAL was at the value shown, ISO8601 format |
 | PeriodEnd UTC | The UTC date and time until the VAL was at the value shown, ISO8601 format |
 | VAL | The numeric VAL value assigned on that date |
-| VAL Version | The version number of the VAL system used on the date of the change |
+| VAL System Version | The version number of the VAL system used on the date of the change |
 | Description | The description of the VAL value |
 | PeriodStart NZtime | The NZST or NZDT date and time from when the VAL was at the value shown |
 | PeriodStart NZtime | The NZST or NZDT date and time until the VAL was at the value shown |
