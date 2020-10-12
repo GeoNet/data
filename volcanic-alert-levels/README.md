@@ -5,13 +5,13 @@ New Zealand uses a Volcanic Alert Level (VAL) system to define the current statu
 ## VAL Versions
 New Zealand has had three versions of its VAL system. The current [VAL](https://www.geonet.org.nz/about/volcano/val) system, version 3, was first used in July 2014. A [publication](https://link.springer.com/article/10.1186/s13617-014-0013-7) discusses the use of volcanic alert levels and the development of version 3.
 
-| VAL Version | Dates Used |
+| VAL Version | Dates Used (LocalTime)|
 | --- | --- |
 | 1 | 1994-12-01 to 1995-08-01* |
 | 2 | 1995-08-01* to 2014-07-01 |
 | 3 | since 2014-07-01 |
 
-*The exact date of the start of version 2 is not recorded, but a Volcanic Alert Bulletin from September 1995 refers to the system being revised in August 1995.
+\*The exact date of the start of version 2 is not recorded, but a Volcanic Alert Bulletin from September 1995 refers to the system being revised in August 1995.
 ### Version 1
 Version 1 had no zero level. This meant that unless a volcano was at VAL 1 or higher, the VAL was not defined. Version 1 was only ever used for Ruapehu. 
 | VAL | Scientific Interpretation |
@@ -55,15 +55,15 @@ The files in this repository contain a complete record of VAL values at New Zeal
 | VAL | The numeric VAL value for that period |
 | VAL System Version | The version number of the VAL system used for that period |
 | Description | The description of the VAL value |
-| PeriodStart NZtime | The NZST or NZDT date and time for the start of the period of the VAL shownn |
-| PeriodStart NZtime | The NZST or NZDT date and time for the end of the period of the VAL shown |
+| PeriodStart LocalTime | The NZST or NZDT date and time for the start of the period of the VAL shownn |
+| PeriodEnd LocalTime | The NZST or NZDT date and time for the end of the period of the VAL shown |
 
 - The dates and times of changes in VAL is provided in UTC to support easy integration with other GeoNet data sets which also use UTC. 
 - Stakeholder groups that may be more interested in response actions to VAL changes are more likely to work in local time; the dates and tmes of VAL changes are also provided in NZST or NZDT to support those users.
 - For some older VAL changes, the date of a change is know, but not the time. In those cases, the time has arbitrarily been set to 12:00:00, midday NZ local time.
 - The VAL value is numeric; in version 1 ranging from 1 to 5 , and in versions 2 and 3 ranging from 0 to 5.
-- The description gives the officially agreed meaning of the VAL value.
-- The VAL version shows the version of the VAL system in operation when the VAL was at a particular level.
+- The description gives the officially agreed phrases to describe the VAL value.
+- The VAL system version shows the version of the VAL system in operation when the VAL was at a particular level.
 
 ## Current VAL
 The current VAL values for all New Zealand volcanoes can be view on the [GeoNet website](https://www.geonet.org.nz/volcano). An accompnaying map shows the location of each volcano.
