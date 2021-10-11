@@ -11,16 +11,16 @@ Date LocalTime,Date Comment,Location,Activity Description,Certainty,References
 1867-11-23,23 Nov 1867,Lower Te Maari,"Steaming strongly vent from a sinter mound in a lake, reported during Hectors visit.",,Gregg et al. (1960)
 1868-11-09,9 Nov 1868,Ngauruhoe,Report of an eruption at Tongariro. More likely to be Ngauruhoe. Further reports later in November and in December.,Discounted,Daily Southern Cross; New Zealand Herald 9.11.1868
 1869-03-01,Early 1869,Upper Te Maari,Probable formation of Upper Te Maari vent(s). Significant local eruption.,Confirmed,Hill (1891) Cowan (1927) Otago Witness 20.12.1905 Auckland Star 20.4.1927
-1869-10-01,Oct 1869,Ngauruhoe,Report of an eruption at Tongariro. More likely to be Ngauruhoe,Discounted,Wanganui Herald 4.10.1869
 1869-07-01,1869,South Crater,Large active fumarole feature noted,,Cowan (1927)
+1869-10-01,Oct 1869,Ngauruhoe,Report of an eruption at Tongariro. More likely to be Ngauruhoe,Discounted,Wanganui Herald 4.10.1869
 1880-06-28,28 June 1880,Ngauruhoe,Ash emissions from Tongariro. Most likely to be Ngauruhoe.,Discounted,Bay of Plenty Times 29.6.1880
 1883-07-15,July 1883,(Upper?) Te Maari,Accounts which confirm steam emissions from (Upper?) Te Maari.,,NZ Herald 14.7.1883
 1883-09-15,Sept 1883,(Upper?) Te Maari,Accounts which confirm steam emissions from (Upper?) Te Maari.,,Evening Post 10.9.1883
 1886-06-15,June 1886,South Crater,Fumarole active in South Crater before the eruption.,Possible,Cowan (1927)
 1886-06-15,June 1886,Te Maari,Tarawera eruption. Green lake disappeared. New Zealand Herald 24.11.1922,Possible,Hill (1892) New Zealand Herald 24.11.1922
 1886-06-15,June 1886,Red Crater,Tarawera eruption. Green lake disappeared. New Zealand Herald 24.11.1922 Changes in Red Crater post Tarawera eruption,Possible,Hill (1892) New Zealand Herald 24.11.1922 Gray (1890)
-1887-07-01,1887,South Crater,"Decaying solfatara, activity in 1887",,Hill (1892)
 1887-03-15,March 1887,Red Crater,Steaming furiously,,Hill (1892)
+1887-07-01,1887,South Crater,"Decaying solfatara, activity in 1887",,Hill (1892)
 1887-11-15,Nov 1887,Te Maari,Steam emission,,NZ Herald 19.11.1887
 1888-01-15,Jan 1888,Red Crater,Steam emissions,,Thomas (1889)
 1888-01-15,Jan 1888,Te Maari,Steam emissions,,Thomas (1889)
@@ -49,60 +49,60 @@ Date LocalTime,Date Comment,Location,Activity Description,Certainty,References
 1896-12-01,1 Dec 1896,Te Maari,Ash eruptions,Confirmed,Evening Post 1.12.1896
 1896-12-11,11 Dec 1896,Te Maari,"Roaring noise, blue gas",Confirmed,Friedlaender (1898)
 1896-12-15,15 Dec 1896,Te Maari,"Explosive eruption, incandescence and lightning during eruption. Ash fall reported in Napier.",Confirmed,Friedlaender (1898) Poverty Bay Herald 16.12.1896 Otago Daily Times 24.12.1896
-1986-12-21,21 Dec 1896,Te Maari,"Eruption of “steam, ashes and smoke”",Confirmed,Auckland Star 21.12.1896
+1896-12-21,21 Dec 1896,Te Maari,"Eruption of “steam, ashes and smoke”",Confirmed,Auckland Star 21.12.1896
 1897-01-25,25 Jan 1897,Te Maari,"Further eruptive activity, not as ‘strong’, started 0400h",Confirmed,NZ Herald 26.1.1897
 1897-01-26,26 Jan 1897,Te Maari,Ash fell near the volcano,Probable,Hawera & Normanby Star 29.1.1897
 1897-02-05,5 Feb 1897,Te Maari,Eruptive activity; ash eruptions,Confirmed,Evening Post 8.2.1897
 1897-02-06,6 Feb 1897,Te Maari,"Eruptive activity, large ash column, ashfall reached the eastern coast. Reported as largest eruption of the episode to date.",Confirmed,Bay Of Plenty Times 12.2.1897
 1897-03-02,2  Mar 1897,Red Crater,"Ash eruption, 0600h",Confirmed,NZ Herald 3.3.1897
+1897-07-01,1897,South Crater,Active steam source mapped,,Lowe (1897)
 1897-08-12,12 Aug 1897,Red Crater,Stronger ‘emissions’ ,,NZ Herald 13.8.1897
 1897-08-12,12 Aug 1897,Te Maari, Double steam columns,,NZ Herald 13.8.1897
 1897-09-17, 17 Sept 1897,Te Maari,"Eruptions at intervals, both Te Maari and Red Crater mentioned",Probable,NZ Herald 18.9.1897
 1897-09-17, 17 Sept 1897,Red Crater,"Eruptions at intervals, both Te Maari and Red Crater mentioned",Probable,NZ Herald 18.9.1897
 1897-09-22,22 Sept 1897,Upper Te Maari,‘Good volume of steam and smoke’ emitted,Probable,NZ Herald 23.9.1897
-1897-07-01,1897,South Crater,Active steam source mapped,,Lowe (1897)
 1897-10-18,18 Oct 1897,Te Maari,Eruptive activity from Te Maari,Probable,Colonist 21.10.1897 Evening Post 21.10.1897
+1898-03-14,14 March 1898,Te Maari,Strong steam emission,,NZ Herald 14.3.1898
 1899-03-06,6 March 1899,Te Maari,"Possible increase in emissions noted, while Ngauruhoe was in eruption",,Auckland Star 6.3.1899
-1899-03-14,14 March 1889,Te Maari,Strong steam emission,,NZ Herald 14.3.1889
 1899-03-14,14 March 1889,Red Crater,Steam emission,,NZ Herald 14.3.1889
 1899-08-29,29 Aug 1899,Upper Te Maari,Dark eruption clouds observed which obscured Ngauruhoe and Ruapehu,Probable,NZ Herald 30.8.1899 NZ Herald 6.9.1899
 1899-08-30,30 Aug 1899,Upper Te Maari,Dark eruption clouds observed which obscured Ngauruhoe and Ruapehu,Probable,NZ Herald 30.8.1899 NZ Herald 6.9.1899
-1909-03-16,1909-03-16 00:00:00,Red Crater,‘Great columns of sulphurous steam’,,NZ Herald 17.3.1909
-1909-03-16,1909-03-16 00:00:00,Te Maari,Steam clouds,,NZ Herald 17.3.1909
-1909-04-20,1909-04-20 00:00:00,Red Crater,Dense clouds of steam.,,Wairarapa Daily Times 21.4.1909
-1909-04-20,1909-04-20 00:00:00,Te Maari,Dense clouds of steam.,,Wairarapa Daily Times 21.4.1909
-1909-05-03,1909-05-03 00:00:00,Te Maari,Unusual activity noted,,NZ Herald 3.5.1909
-1909-05-03,1909-05-03 00:00:00,Red Crater,Unusual activity noted,,NZ Herald 3.5.1909
-1912-06-26,1912-06-26 00:00:00,Te Maari,Picture of steam emission,,NZ Herald 26 June 1912
-1924-01-15,1924-01-01 00:00:00,Te Maari,Comment about no extra activity,,Thompson (1924)
-1926-05-15,1926-04-01 00:00:00,Red Crater,Eruption,Probable,Latter (1985)
-1926-04-26,26 Apr 1926,Red Crater,Great column of “black smoke” observed,Probable,Thompson (1926)
-1926-04-27,27Apr 1926,Red Crater,Great column of “black smoke” observed,Probable,Thompson (1926)
-1926-04-28,28 Apr 1926,Red Crater,Great column of “black smoke” observed,Probable,Thompson (1926)
-1926-04-29,29 Apr 1926,Red Crater,Great column of “black smoke” observed,Probable,Thompson (1926)
-1926-04-30,30 Apr 1926,Red Crater,Great column of “black smoke” observed,Probable,Thompson (1926)
-1926-04-26,26 Apr 1926,Te Maari,Great column of “black smoke” observed,Probable,Thompson (1926)
-1926-04-27,27Apr 1926,Te Maari,Great column of “black smoke” observed,Probable,Thompson (1926)
-1926-04-28,28 Apr 1926,Te Maari,Great column of “black smoke” observed,Probable,Thompson (1926)
-1926-04-29,29 Apr 1926,Te Maari,Great column of “black smoke” observed,Probable,Thompson (1926)
-1926-04-30,30 Apr 1926,Te Maari,Great column of “black smoke” observed,Probable,Thompson (1926)
-1927-09-05,1927-09-05 00:00:00,Red Crater,"“Smoke” observed from a new vent (attributed to North Crater or Blue Lake, but it was more likely Red Crater) Ketetahi more active",Probable,NZ Herald 5.9.1927
-1927-09-27,1927-09-06 00:00:00,Red Crater,Activity subsided,,NZ Herald 6.9.1927
-1927-09-10,1927-09-10 00:00:00,Red Crater,Confirmation of activity from ‘new’ vent. Geysering noted at Ketetahi,,NZ Herald 10.9.1927
+1909-03-16,16 March 1909,Red Crater,‘Great columns of sulphurous steam’,,NZ Herald 17.3.1909
+1909-03-16,16 March 1909,Te Maari,Steam clouds,,NZ Herald 17.3.1909
+1909-04-20,20 April 1909,Red Crater,Dense clouds of steam.,,Wairarapa Daily Times 21.4.1909
+1909-04-20,20 April 1909,Te Maari,Dense clouds of steam.,,Wairarapa Daily Times 21.4.1909
+1909-05-03,3 May 1909,Te Maari,Unusual activity noted,,NZ Herald 3.5.1909
+1909-05-03,3 May 1909,Red Crater,Unusual activity noted,,NZ Herald 3.5.1909
+1912-06-26,26 June 1912,Te Maari,Picture of steam emission,,NZ Herald 26 June 1912
+1924-01-15,January 1924,Te Maari,Comment about no extra activity,,Thompson (1924)
+1926-04-15,April 1926,Red Crater,Eruption,Probable,Latter (1985)
+1926-04-26,26-30 Apr 1926,Red Crater,Great column of “black smoke” observed,Probable,Thompson (1926)
+1926-04-27,26-30 Apr 1926,Red Crater,Great column of “black smoke” observed,Probable,Thompson (1926)
+1926-04-28,26-30 Apr 1926,Red Crater,Great column of “black smoke” observed,Probable,Thompson (1926)
+1926-04-29,26-30 Apr 1926,Red Crater,Great column of “black smoke” observed,Probable,Thompson (1926)
+1926-04-30,26-30 Apr 1926,Red Crater,Great column of “black smoke” observed,Probable,Thompson (1926)
+1926-04-26,26-30 Apr 1926,Te Maari,Great column of “black smoke” observed,Probable,Thompson (1926)
+1926-04-27,26-30 Apr 1926,Te Maari,Great column of “black smoke” observed,Probable,Thompson (1926)
+1926-04-28,26-30 Apr 1926,Te Maari,Great column of “black smoke” observed,Probable,Thompson (1926)
+1926-04-29,26-30 Apr 1926,Te Maari,Great column of “black smoke” observed,Probable,Thompson (1926)
+1926-04-30,26-30 Apr 1926,Te Maari,Great column of “black smoke” observed,Probable,Thompson (1926)
+1927-09-05,5 September 1927,Red Crater,"“Smoke” observed from a new vent (attributed to North Crater or Blue Lake, but it was more likely Red Crater) Ketetahi more active",Probable,NZ Herald 5.9.1927
+1927-09-06,6 September 1927,Red Crater,Activity subsided,,NZ Herald 6.9.1927
+1927-09-10,10 September 1927,Red Crater,Confirmation of activity from ‘new’ vent. Geysering noted at Ketetahi,,NZ Herald 10.9.1927
 1928-01-01,1928,Te Maari,Immense column of “black steam” emitted for 2 hrs,Possible,Thompson (1928)
-1928-02-03,1928-02-03 00:00:00,Ketetahi,"Steaming very actively, showed great activity",Possible,Thompson (1928)
-1930-04-03,1930-04-03 00:00:00,Te Maari,Quieter than usual,,Evening Post  5.4.1930
+1928-02-03,3 February 1928,Ketetahi,"Steaming very actively, showed great activity",Possible,Thompson (1928)
+1930-04-03,3 April 1930,Te Maari,Quieter than usual,,Evening Post  5.4.1930
 1934-03-01,Early 1934,Red Crater,2 new vents with water in them observed; significant changes in past year are reported,Probable,Auckland Star 2.3.1934 Auckland Star 9.3.1934
-1935-06-19,1935-06-19 00:00:00,Red Crater,Active but not in violent eruption Ketetahi very active,,Evening Post 19.6.1935
-1945-07-29,1945-07-29 00:00:00,Red Crater,Increasing amount of steam,,"Evening Post 30.7.1945, 9.8.1945"
-1945-07-29,1945-07-29 00:00:00,Ketetahi,"White steam and black smoke were noted, however a retrospective investigation showed no sign of eruptions",Discounted,"Evening Post 30.7.1945, 9.8.1945"
-1959-03-05,1959-05-05 00:00:00,Upper Te Maari,"Steam columns at 0905 and 1225h, blue tinge noted in the evening",Eruptions unlikely,Letter from Mr DP Cooney (GNS Science file T19/500)
-1959-06-01,1959-06-01 00:00:00,Upper Te Maari,Dense blue vapour erupted or emitted,Eruptions unlikely,NZ Herald 3.6.1959
-1966-06-15,1966-06-01 00:00:00,Te Maari,"Unusual hydrothermal activity, steam",,Letter from Lands and Survey 18.6.1966 (T19/500 Tongariro)
-1966-06-15,1966-06-01 00:00:00,Ketetahi,"Unusual hydrothermal activity, steam",,Letter from Lands and Survey 18.6.1966 (T19/500 Tongariro)
-1967-02-15,1967-02-01 00:00:00,Ketetahi,"Unusual hydrothermal activity at Ketetahi, increased temperatures",,Letter from Lands and Survey 14.2.1967 (T19/500 Tongariro)
-1967-09-23,1967-09-23 00:00:00,Te Maari,Unusual steaming,,Letter from Lands and Survey 18.6.1966 (T19/500 Tongariro)
-1971-09-15,1971-09-01 00:00:00,Te Maari,Increased steaming,,Evening Post 29.9.1971
+1935-06-19,19 June 1935,Red Crater,Active but not in violent eruption Ketetahi very active,,Evening Post 19.6.1935
+1945-07-29,29 July 1945,Red Crater,Increasing amount of steam,,"Evening Post 30.7.1945, 9.8.1945"
+1945-07-29,29 July 1945,Ketetahi,"White steam and black smoke were noted, however a retrospective investigation showed no sign of eruptions",Discounted,"Evening Post 30.7.1945, 9.8.1945"
+1959-05-05,5 May 1959,Upper Te Maari,"Steam columns at 0905 and 1225h, blue tinge noted in the evening",Eruptions unlikely,Letter from Mr DP Cooney (GNS Science file T19/500)
+1959-06-01,1 June 1959,Upper Te Maari,Dense blue vapour erupted or emitted,Eruptions unlikely,NZ Herald 3.6.1959
+1966-06-15,June 1966,Te Maari,"Unusual hydrothermal activity, steam",,Letter from Lands and Survey 18.6.1966 (T19/500 Tongariro)
+1966-06-15,June 1966,Ketetahi,"Unusual hydrothermal activity, steam",,Letter from Lands and Survey 18.6.1966 (T19/500 Tongariro)
+1967-02-15,February 1967,Ketetahi,"Unusual hydrothermal activity at Ketetahi, increased temperatures",,Letter from Lands and Survey 14.2.1967 (T19/500 Tongariro)
+1967-09-23,23 September 1967,Te Maari,Unusual steaming,,Letter from Lands and Survey 18.6.1966 (T19/500 Tongariro)
+1971-09-15,September 1971,Te Maari,Increased steaming,,Evening Post 29.9.1971
 2000-01-15,2000,Te Maari,"Earthquake activity, tornillo type events start Jan. 2000",,Hagerty and Benities (2003)
 2001-07-01,2001,Te Maari,"Earthquake activity, tornillo type events start Jan. 2000",,Hagerty and Benities (2003)
 2002-07-01,2002,Te Maari,"Earthquake activity, tornillo type events start Jan. 2000",,Hagerty and Benities (2003)
@@ -116,6 +116,6 @@ Date LocalTime,Date Comment,Location,Activity Description,Certainty,References
 2010-07-01,2010,Te Maari,"Earthquake activity, tornillo type events start Jan. 2000",,Hagerty and Benities (2003)
 2011-07-01,2011,Te Maari,"Earthquake activity, tornillo type events start Jan. 2000",,Hagerty and Benities (2003)
 2012-07-01,2012,Te Maari,"Earthquake activity, tornillo type events start Jan. 2000",,Hagerty and Benities (2003)
-2012-07-15,2012-07-01 00:00:00,Te Maari,"Earthquake activity, changes in gas emisions",,Christenson et al.(2013)
-2012-08-06,2012-08-06 00:00:00,Upper Te Maari,"Eruption, ash column over 9 km high, ashfall, PDC’s, lightning",Confirmed,Jolly et al. (2012)
-2012-11-21,2012-11-21 00:00:00,Upper Te Maari,Small ash eruption,Confirmed,Volcanic Alert Bulletin TONG-2012/26
+2012-07-15,July 2012,Te Maari,"Earthquake activity, changes in gas emisions",,Christenson et al.(2013)
+2012-08-06,6 August 2012,Upper Te Maari,"Eruption, ash column over 9 km high, ashfall, PDC’s, lightning",Confirmed,Jolly et al. (2012)
+2012-11-21,21 November 2012,Upper Te Maari,Small ash eruption,Confirmed,Volcanic Alert Bulletin TONG-2012/26
