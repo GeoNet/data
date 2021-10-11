@@ -63,7 +63,7 @@ Refer to the [report](https://shop.gns.cri.nz/sr_2013-045-pdf/) for further deta
 |---|---|
 |0|Crater Lake steaming, hotter than normal (i.e., above 30-35<sup>o</sup>C) creating additional interest, but no observations (or confirmation) of activity in lake.|
 |1|Small phreatic eruptions confined to Crater Lake.|
-|2|Phreatic or pheatomagmatic eruption accompanied by surges; material deposited outside Crater Lake, but still confined to the crater basin. May produce larger flows/floods in Whangaehu Valley.|
+|2|Phreatic or phreatomagmatic eruption accompanied by surges; material deposited outside Crater Lake, but still confined to the crater basin. May produce larger flows/floods in Whangaehu Valley.|
 |3|Deposition of material outside the crater basin; possible remobilisation/lahars in upper catchments and Whangaehu valley; OR small scale explosive eruptions/intermittent ash emission when no lake is present.|
 |4|Material deposited well outside the crater basin onto the summit plateau and outer flanks. Lahars possible in several catchments; OR explosive ash eruptions when no lake is present producing columns up to 10000 ft.|
 |5|Large scale explosive eruption displacing moderate volumes of the lake, lahars in all/most major valleys. The summit and slopes covered, with ashfall off the cone; OR explosive eruptions when no lake is present producing tall (> 10000 ft) eruption columns and ashfall off the cone.|
