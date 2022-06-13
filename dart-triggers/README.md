@@ -17,4 +17,4 @@ For more information on the DART Network, please refer to the [GeoNet DART](http
 
 ### Citations and Further Information
 
-To cite this catalogue please use the following DOI:https://doi.org/10.21420/8tcz-tv02. For further information on these signals or to notify us about issues with the catalogue, please see https://github.com/GeoNet/help.
+To cite this catalogue please use the following DOI: https://doi.org/10.21420/8tcz-tv02. For further information on these signals or to notify us about issues with the catalogue, please see https://github.com/GeoNet/help.
