@@ -11,7 +11,7 @@ Each folder is a self contained dataset, which includes:
  
 | Dataset Name  | Description   |
 | ------------- | ------------- |
-| [DART Triggers](dart-triggers) | Catalogue of triggers detected by the DART Network |
+| [DART Triggers](dart-triggers) | Catalogue of automatic triggers detected by the DART Network |
 | [Moment Tensors](moment-tensor) | Moment tensor solutions for earthquakes in New Zealand (generally M>4) |
 | [Site Class](site-class)    | Information on site class/characteristics for GeoNet sites  |
 | [Rupture Models](rupture-models) | Seismic and geodetic fault models for significant earthquakes |
