@@ -2,6 +2,8 @@
 
 A Catalogue of triggers detected by the DART Network. These triggers have been classified into different categories as listed below and are sorted by station and UTC date-time.
 
+For plotting these signals, [TILDE Data Discovery](https://tilde.geonet.org.nz/ui/data-exploration#/) is a good tool. To use it, you will need to specify the DART and change the time period to the date shown by the triggered time. Data Discovery can also be used to download the data in JSON and CSV formats. If you would prefer an API please use [TILDE API](https://tilde.geonet.org.nz/v2/api-docs/).
+
 For more information on the DART Network, please refer to the [GeoNet DART](https://www.geonet.org.nz/tsunami/dart) page.
 
 | Category | Name | Description |
@@ -11,10 +13,9 @@ For more information on the DART Network, please refer to the [GeoNet DART](http
 | SN | Negative Spike | A negative spike with an unknown cause. Some of these could be single data points and numerical errors. |
 | MS | Multiple Spikes | Common for NZA, includes multiple spikes / shark teeth patterns. |
 | E | Earthquake | Contains an earthquake signal and can be related to an earthquake detection by the seismic network. |
-| T-SN | Tsunami + Negative Spike | A tsunami event that contains a negative spike. |
-| T-SP | Tsunami + Positive Spike | A tsunami event that contains a positive spike. |
+| T | Tsunami | A tsunami event. |
 
 
 ### Citations and Further Information
 
-To cite this catalogue please use the following DOI: https://doi.org/10.21420/8tcz-tv02. For further information on these signals or to notify us about issues with the catalogue, please see https://github.com/GeoNet/help.
+To cite this catalogue please use the following DOI: https://doi.org/10.21420/8tcz-tv02. For further information on these signals or to notify us about issues with the catalogue, please use https://github.com/GeoNet/help.
