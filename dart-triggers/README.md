@@ -1,6 +1,6 @@
 ## DART Triggers Catalogue
 
-A Catalogue of triggers detected by the DART Network. These triggers have been classified into different categories as listed below and are sorted by station and UTC date-time.
+A Catalogue of automatic triggers detected by the DART Network. These triggers have been classified into different categories as listed below and are sorted by station and UTC date-time.
 
 For plotting these signals, [TILDE Data Discovery](https://tilde.geonet.org.nz/ui/data-exploration#/) is a good tool. To use it, you will need to specify the DART and change the time period to the date shown by the triggered time. Data Discovery can also be used to download the data in JSON and CSV formats. If you would prefer an API please use [TILDE API](https://tilde.geonet.org.nz/v2/api-docs/).
 
