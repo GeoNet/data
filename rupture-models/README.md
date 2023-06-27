@@ -6,6 +6,7 @@ Each folder contains the rupture models for each of the following events.
 
 | Date       | Event                     | Seismic Data | Geodetic Data | PublicID                                 |
 | ---------- | ------------------------- | ------------ | ------------- | ---------------------------------------- |
+| 05/03/2021 | [East Cape M7.2](20210305-east-cape)               | X            |               |  [2021p169083](https://www.geonet.org.nz/earthquake/2021p169083) |
 | 14/11/2016 | [Kaikoura M7.8](20161114-kaikoura)               | X            | X             |  [2016p858000](https://www.geonet.org.nz/quakes/region/newzealand/2016p858000) |
 | 14/02/2016 | [Christchurch M5.7](20160214-christchurch)         | X            | X             | [2016p118944](https://geonet.org.nz/quakes/region/newzealand/2016p118944) |
 | 20/01/2014 | [Eketahuna M6.2](20140120-eketahuna)            | X            |               | [2014p051675](https://geonet.org.nz/quakes/region/newzealand/2014p051675) |
@@ -22,35 +23,36 @@ Each folder contains the rupture models for each of the following events.
 
 ### Reference Papers
 
-Beavan, J., Samsonov, S., Denys, P., Sutherland, R., Palmer, N. and Denham, M. (2010). "Oblique slip on the Puysegur subduction interface in the 2009 July Mw 7.8 Dusky Sound earthquake from GPS and InSAR observations: implications for the tectonics of southwestern New Zealand". *Geophysical Journal International,* **183**(3), 1265-1286.
+Beavan, J., Samsonov, S., Denys, P., Sutherland, R., Palmer, N. and Denham, M. (2010). "Oblique slip on the Puysegur subduction interface in the 2009 July Mw 7.8 Dusky Sound earthquake from GPS and InSAR observations: implications for the tectonics of southwestern New Zealand". *Geophysical Journal International,* **183**(3), 1265-1286, https://doi.org/10.1111/j.1365-246X.2010.04798.x.
 
-Beavan, J., Motagh, M., Fielding, E., Donnelly, N. and Collett, D. (2012). "Fault slip models of the 2010–2011 Canterbury, New Zealand, earthquakes from geodetic data and observations of postseismic ground deformation". *New Zealand Journal of Geology and Geophysics,* **55**(3), 207-221.
+Beavan, J., Motagh, M., Fielding, E., Donnelly, N. and Collett, D. (2012). "Fault slip models of the 2010–2011 Canterbury, New Zealand, earthquakes from geodetic data and observations of postseismic ground deformation". *New Zealand Journal of Geology and Geophysics,* **55**(3), 207-221, https://doi.org/10.1080/00288306.2012.697472.
 
-François-Holden, C., Bannister, S., Beavan, J., Cousins, J., Field, B., McCaffrey, R., McVerry, G., Reyners, M., Ristau, J. and Samsonov, S. (2008). "The Mw 6.6 Gisborne earthquake of 2007: Preliminary records and general source characterisation". *Bulletin of the New Zealand Society for Earthquake Engineering,* **41**(4), 266-277.
+François-Holden, C., Bannister, S., Beavan, J., Cousins, J., Field, B., McCaffrey, R., McVerry, G., Reyners, M., Ristau, J. and Samsonov, S. (2008). "The Mw 6.6 Gisborne earthquake of 2007: Preliminary records and general source characterisation". *Bulletin of the New Zealand Society for Earthquake Engineering,* **41**(4), 266-277, https://doi.org/10.5459/bnzsee.41.4.266-277.
 
-Fry, B., Bannister, S., Beavan, J., Bland, L., Bradley, B., Cox, S., Cousins, J., Gale, N., Hancox, G. and Holden, C. (2010). "The Mw 7.6 Dusky Sound earthquake of 2009: Preliminary report". *Bulletin of the New Zealand Society for Earthquake Engineering,* **43**(1), 24-40.
+Fry, B., Bannister, S., Beavan, J., Bland, L., Bradley, B., Cox, S., Cousins, J., Gale, N., Hancox, G. and Holden, C. (2010). "The Mw 7.6 Dusky Sound earthquake of 2009: Preliminary report". *Bulletin of the New Zealand Society for Earthquake Engineering,* **43**(1), 24-40, https://doi.org/10.5459/bnzsee.43.1.24-40.
 
 Holden, C., Beavan, J., Fry, B., Reyners, M., Ristau, J., Van Dissen, R., Villamor, P. and Quigley, M. (2011). "Preliminary source model of the Mw 7.1 Darfield earthquake from geological, geodetic and seismic data". In *Proceedings of the Ninth Pacific Conference on Earthquake Engineering, Building an Earthquake-Resilient Society,* Paper No. 164, Auckland, New Zealand, 14-16 April.
 
-Holden, C. (2011). "Kinematic source model of the 22 February 2011 Mw 6.2 Christchurch earthquake using strong motion data". *Seismological Research Letters,* **82**(6), 783-788.
+Holden, C. (2011). "Kinematic source model of the 22 February 2011 Mw 6.2 Christchurch earthquake using strong motion data". *Seismological Research Letters,* **82**(6), 783-788, https://doi.org/10.1785/gssrl.82.6.783.
 
 Holden, C. and Beavan, J. (2012). "Source studies of the ongoing (2010-2011) sequence of recent large earthquakes in Canterbury". In *Proceedings of the 15th World Conference on Earthquake Engineering,* Lisbon, Portugal.
 
-Holden, C., Kaiser, A., Van Dissen, R. and Jury, R. (2013). "Sources, ground motion and structural response characteristics in Wellington of the 2013 Cook Strait earthquakes". *Bulletin of the New Zealand Society for Earthquake Engineering,* **46**(4), 188-195.
+Holden, C., Kaiser, A., Van Dissen, R. and Jury, R. (2013). "Sources, ground motion and structural response characteristics in Wellington of the 2013 Cook Strait earthquakes". *Bulletin of the New Zealand Society for Earthquake Engineering,* **46**(4), 188-195, https://doi.org/10.5459/bnzsee.46.4.188-195.
 
 Holden, C., Kaneko, Y., D'Anastasio, E., Benites, R., Fry, B. and Hamling, I. (2017) "The 2016 Kaikoura Earthquake Revealed by Kinematic Source Inversion and Seismic Wavefield Simulations: Slow Rupture Propagation on a Geometrically Complex Crustal Fault Network". *Geophysical Research Letters,* http://dx.doi.org/10.1002/2017GL075301.
 
-Hamling, I., D'Anastasio, E., Wallace, L., Ellis, S., Motagh, M., Samsonov, S., Palmer, N. and Hreinsdóttir, S. (2014). "Crustal deformation and stress transfer during a propagating earthquake sequence: The 2013 Cook Strait sequence, central New Zealand". *Journal of Geophysical Research: Solid Earth,* **119**(7), 6080-6092.
+Hamling, I., D'Anastasio, E., Wallace, L., Ellis, S., Motagh, M., Samsonov, S., Palmer, N. and Hreinsdóttir, S. (2014). "Crustal deformation and stress transfer during a propagating earthquake sequence: The 2013 Cook Strait sequence, central New Zealand". *Journal of Geophysical Research: Solid Earth,* **119**(7), 6080-6092, https://doi.org/10.1002/2014JB011084.
 
 Kaiser, A., Holden, C., Hamling, I., Hreinsdóttir, S., Horspool, N., Massey, C., Villamor, P., Rhoades, D., Fry, B., D'Anastasio, E., Benites, R., Christophersen, A., Ristau, J., Ries, W., Goded, T., Archibald, G., Little, C., Bannister, S., Ma, Q., Denys, P., Pearson, C., Giona-Bucci, M., Almond, P., Van Ballegooy, S. and Wallace, S. (2016). "The 2016 Valentine's Day Mw5.7 Christchurch earthquake: preliminary report". In *Proceedings of Conference of the New Zealand Society for Earthquake Engineering,* Paper number O-20, Christchurch, New Zealand, 1-3 April 2016
 
-McGinty, P. and Robinson, R. (2007). "The 2003 Mw 7.2 Fiordland subduction earthquake, New Zealand: aftershock distribution, main shock fault plane and static stress changes on the overlying Alpine Fault". *Geophysical Journal International,* **169**(2), 579-592.
+McGinty, P. and Robinson, R. (2007). "The 2003 Mw 7.2 Fiordland subduction earthquake, New Zealand: aftershock distribution, main shock fault plane and static stress changes on the overlying Alpine Fault". *Geophysical Journal International,* **169**(2), 579-592, https://doi.org/10.1111/j.1365-246X.2007.03336.x.
 
-Petersen, T., Ristau, J., Beavan, J., Denys, P., Denham, M., Field, B., François-Holden, C., McCaffrey, R., Palmer, N. and Reyners, M. (2009). "The Mw 6.7 George Sound Earthquake of October 15, 2007: Responses and Preliminary Results". *Bulletin of the New Zealand Society for Earthquake Engineering,* **42**(2), 129.
+Petersen, T., Ristau, J., Beavan, J., Denys, P., Denham, M., Field, B., François-Holden, C., McCaffrey, R., Palmer, N. and Reyners, M. (2009). "The Mw 6.7 George Sound Earthquake of October 15, 2007: Responses and Preliminary Results". *Bulletin of the New Zealand Society for Earthquake Engineering,* **42**(2), 129, https://doi.org/10.5459/bnzsee.42.2.129-141.
 
-Reyners, M., McGinty, P., Cox, S., Turnbull, I., O Neill, T., Gledhill, K., Hancox, G., Beavan, J., Matheson, D. and McVerry, G. (2003). "The Mw 7.2 Fiordland Earthquake of August 21, 2003: Background and Preliminary Results". *Bulletin of the New Zealand Society for Earthquake Engineering,* **36**(4), 233-248.
+Reyners, M., McGinty, P., Cox, S., Turnbull, I., O Neill, T., Gledhill, K., Hancox, G., Beavan, J., Matheson, D. and McVerry, G. (2003). "The Mw 7.2 Fiordland Earthquake of August 21, 2003: Background and Preliminary Results". *Bulletin of the New Zealand Society for Earthquake Engineering,* **36**(4), 233-248, https://doi.org/10.5459/bnzsee.36.4.233-248.
 
-Ristau, J., Holden, C., Kaiser, A., Williams, C., Bannister, S. and Fry, B. (2013). "The Pegasus Bay aftershock sequence of the Mw 7.1 Darfield (Canterbury), New Zealand earthquake". *Geophysical Journal International,* **195**(1), 444-459.
+Ristau, J., Holden, C., Kaiser, A., Williams, C., Bannister, S. and Fry, B. (2013). "The Pegasus Bay aftershock sequence of the Mw 7.1 Darfield (Canterbury), New Zealand earthquake". *Geophysical Journal International,* **195**(1), 444-459, https://doi.org/10.1093/gji/ggt222.
 
+Xie, Y., Meng, L., Zhou, T., Xu, L., Bao, H., & Chu, R. (2022). "The 2021 Mw 7.3 East Cape Earthquake: Triggered Rupture in Complex Faulting Revealed by Multi‐Array Back‐Projections". *Geophysical Research Letters,* **49(20)**, e2022GL099643, https://doi.org/10.1029/2022GL099643.
 
 
