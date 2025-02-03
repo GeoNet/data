@@ -6,7 +6,9 @@ For plotting these signals, [Tilde Data Discovery](https://tilde.geonet.org.nz/u
 
 For more information on the DART Network, please refer to the [GeoNet DART](https://www.geonet.org.nz/tsunami/dart) page.
 
-This catalogue is updated regularly and was last updated on the 8th February 2023. 
+For information on the PMEL Tsunami detection algorithm used by the DARTs, please refer to the documentation on the NOAA website, [found here](https://nctr.pmel.noaa.gov/tda_documentation.html).
+
+This catalogue is updated regularly and was last updated on the 4th February 2025. 
 
 | Category | Name | Description |
 | -------- | ---- | ----------- |
