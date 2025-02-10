@@ -1,0 +1,54 @@
+# TOML format -------------------------------------------------------------
+# Contains Finite Source Parameters meta data 
+# -------------------------------------------------------------------------
+[model]
+ citation  = '[Holden et al.(2017)]'
+ reference = 'Holden, C., Kaneko, Y., D Anastasio, E., Benites, R., Fry, B. and Hamling, I. (2017) The 2016 Kaikoura Earthquake Revealed by Kinematic Source Inversion and Seismic Wavefield Simulations: Slow Rupture Propagation on a Geometrically Complex Crustal Fault Network. Geophysical Research Letters, http://dx.doi.org/10.1002/2017GL075301.'
+ 
+[event]
+ region    = 'Kaikoura'
+ public_ids = '2016p858000'
+ evdate    = [14, 11, 2016]  # [dd, mm, yyyy]
+
+[source]   # most can be retrived from the model file.
+ Mw        = 7.9
+ Mo        = nan
+ evlat     = -42.59508
+ evlon     = 173.0080
+ evdep     = 6.25
+ rlength   = nan
+ rwidth    = nan
+ strike    = nan
+ dip       = nan
+ rake      = nan
+ hypX      = nan
+ hypZ      = nan
+ htop      = nan 
+ avTr      = nan
+ avVr      = nan
+ 
+[inversion]
+ Nseg      = nan
+ Nx        = nan
+ Nz        = nan
+ Dx        = nan
+ Dz        = nan
+ Ntw       = nan
+ SHF       = nan
+ Fmin      = 0.0100
+ Fmax      = 0.3333
+ SVF       = 'Unknown'
+ LEN       = nan
+
+[inversion.data]
+ type      = ['SGM', 'TELE', 'GPS', 'INSAR', 'OTHER']
+ count     = [ 14,     0,       3,     0,     0]
+ PHImx     = [-999,    0,    -999,     0,     0]
+ Rmin      = [-999,    0,    -999,     0,     0] 
+
+[inversion.cruststruct]
+ nlayers   =  nan 
+ model     = 'See the reference'
+ 
+ 
+ 

@@ -1,0 +1,54 @@
+# TOML format -------------------------------------------------------------
+# Contains Finite Source Parameters meta data 
+# -------------------------------------------------------------------------
+[model]
+ citation  = '[Petersen et al.(2009)]'
+ reference = 'Petersen, T., Ristau, J., Beavan, J., Denys, P., Denham, M., Field, B., François-Holden, C., McCaffrey, R., Palmer, N., Reyners, M. and Samsonov, S., 2009. The Mw 6.7 George Sound earthquake of October 15, 2007: response and preliminary results. Bulletin of the New Zealand Society for Earthquake Engineering, 42(2), pp.129-141.'
+ 
+[event]
+ region    = 'George Sound, New Zealand'
+ public_ids = '2808298'
+ evdate    = [15, 10, 2007]  # [dd, mm, yyyy]
+
+[source]   # most can be retrived from the model file.
+ Mw        = 6.7
+ Mo        = nan 
+ evlat     = -44.740
+ evlon     = 167.440
+ evdep     = 24.0
+ rlength   = nan
+ rwidth    = nan
+ strike    = nan
+ dip       = nan
+ rake      = nan
+ hypX      = nan
+ hypZ      = nan
+ htop      = nan 
+ avTr      = nan
+ avVr      = nan
+ 
+[inversion]
+ Nseg      = nan
+ Nx        = nan
+ Nz        = nan
+ Dx        = nan
+ Dz        = nan
+ Ntw       = nan
+ SHF       = nan
+ Fmin      = 0.01
+ Fmax      = 0.10
+ SVF       = 'Unknown'
+ LEN       = nan
+
+[inversion.data]
+ type      = ['SGM', 'TELE', 'GPS', 'INSAR', 'OTHER']
+ count     = [8,    0,     0,     0,     0]
+ PHImx     = [-999,    0,     0,    0,     0]
+ Rmin      = [-999,    0,     0,     0,     0] 
+
+[inversion.cruststruct]
+ nlayers   =  nan 
+ model     = 'See the reference'
+ 
+ 
+ 
