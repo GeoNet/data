@@ -1,0 +1,54 @@
+# TOML format -------------------------------------------------------------
+# Contains Finite Source Parameters meta data 
+# -------------------------------------------------------------------------
+[model]
+ citation  = '[Beavan et al.(2010)]'
+ reference = 'Beavan, J., Samsonov, S., Denys, P., Sutherland, R., Palmer, N. and Denham, M., 2010. Oblique slip on the Puysegur subduction interface in the 2009 July MW 7.8 Dusky Sound earthquake from GPS and InSAR observations: implications for the tectonics of southwestern New Zealand. Geophysical Journal International, 183(3), pp.1265-1286.'
+ 
+[event]
+ region    = 'Dusky Sound, New Zealand'
+ public_ids = '3124785'
+ evdate    = [15, 7, 2009]  # [dd, mm, yyyy]
+
+[source]   # most can be retrived from the model file.
+ Mw        = 7.8
+ Mo        = nan
+ evlat     = -45.770
+ evlon     = 166.590
+ evdep     = 30.1
+ rlength   = nan
+ rwidth    = nan
+ strike    = nan
+ dip       = nan
+ rake      = nan
+ hypX      = nan
+ hypZ      = nan
+ htop      = nan 
+ avTr      = nan
+ avVr      = nan
+ 
+[inversion]
+ Nseg      = nan
+ Nx        = nan
+ Nz        = nan
+ Dx        = nan
+ Dz        = nan
+ Ntw       = nan
+ SHF       = nan
+ Fmin      = nan
+ Fmax      = nan
+ SVF       = 'Unknown'
+ LEN       = nan
+
+[inversion.data]
+ type      = ['SGM', 'TELE', 'GPS', 'INSAR', 'OTHER']
+ count     = [0,    0,     -999,     -999,     0]
+ PHImx     = [0,    0,     -999,     -999,     0]
+ Rmin      = [0,    0,     -999,     -999,     0] 
+
+[inversion.cruststruct]
+ nlayers   =  nan 
+ model     = 'See the reference'
+ 
+ 
+ 
