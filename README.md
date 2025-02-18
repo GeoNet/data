@@ -13,10 +13,11 @@ Each folder is a self contained dataset, which includes:
 | ------------- | ------------- |
 | [DART Triggers](dart-triggers) | Catalogue of automatic triggers detected by the DART Network |
 | [Moment Tensors](moment-tensor) | Moment tensor solutions for earthquakes in New Zealand (generally M>4) |
-| [Site Class](site-class)    | Information on site class/characteristics for GeoNet sites  |
-| [Rupture Models](rupture-models) | Seismic and geodetic fault models for significant earthquakes |
-| [Strong Motion Peaks](strong-motion-peaks) | Summary files of peak strong motion measurements |
-| [Strong Motion Flatfiles](nzsmd-flatfiles) | Compilation of specially-processed strong motion data and associated metadata|
+| [NZ Local magnitudes](MLNZ20) | New Zealand MLNZ20 event local magnitude _evaluation dataset_ |
+| [site class](site-class)    | information on site class/characteristics for geonet sites  |
+| [rupture models](rupture-models) | seismic and geodetic fault models for significant earthquakes |
+| [strong motion peaks](strong-motion-peaks) | summary files of peak strong motion measurements |
+| [strong motion flatfiles](nzsmd-flatfiles) | Compilation of specially-processed strong motion data and associated metadata|
 | [Volcanic Alert Levels](volcanic-alert-levels) | Changes in Volcanic Alert Level (VAL) at New Zealand volcanoes |
 | [Historic Volcanic Activity](historic-volcanic-activity) | Catalogues of historic volcanic activity at New Zealand volcanoes |
 
