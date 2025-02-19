@@ -1,0 +1,54 @@
+# TOML format -------------------------------------------------------------
+# Contains Finite Source Parameters meta data 
+# -------------------------------------------------------------------------
+[model]
+ citation  = '[Beavan et al.(2012)]'
+ reference = 'Beavan J, Motagh M, Fielding E, Donnelly N, Collett D, 2012. Fault slip models of the 2010-2011 Canterbury, New Zealand, earthquakes from geodetic data, and observations of post-seismic ground deformation, New Zealand Journal of Geology and Geophysics 55(3). doi:10.1080/00288306.2012.697472'
+ 
+[event]
+ region    = 'Christchurch, New Zealand'
+ public_ids = '3468575'
+ evdate    = [22, 2, 2011]  # [dd, mm, yyyy]
+
+[source]   # most can be retrived from the model file.
+ Mw        = 6.2
+ Mo        = nan
+ evlat     = -43.580
+ evlon     = 172.680
+ evdep     = 5.0
+ rlength   = nan
+ rwidth    = nan
+ strike    = nan
+ dip       = nan
+ rake      = nan
+ hypX      = nan
+ hypZ      = nan
+ htop      = nan 
+ avTr      = nan
+ avVr      = nan
+ 
+[inversion]
+ Nseg      = nan
+ Nx        = nan
+ Nz        = nan
+ Dx        = nan
+ Dz        = nan
+ Ntw       = nan
+ SHF       = nan
+ Fmin      = nan
+ Fmax      = nan
+ SVF       = 'Unknown'
+ LEN       = nan
+
+[inversion.data]
+ type      = ['SGM', 'TELE', 'GPS', 'INSAR', 'OTHER']
+ count     = [0,    0,     -999,     -999,     0]
+ PHImx     = [0,    0,     -999,     -999,     0]
+ Rmin      = [0,    0,     -999,     -999,     0] 
+
+[inversion.cruststruct]
+ nlayers   =  nan 
+ model     = 'See the reference'
+ 
+ 
+ 
