@@ -35,6 +35,15 @@ If measurements were carried out over more than one day, but are considered by t
 
 If no measurement was made, the corresponding field is empty. A zero flux indicates a measurement was made, but no gas was observed.
 
+## Citation
+
+This dataset is part of GeoNets mannually collected volcano dataset, please use the DOI and cite accordingly.
+
+DOI: https://doi.org/10.21420/PSP7-KW60?x=y
+
+Cite as:
+GNS Science. (1954). GeoNet Aotearoa New Zealand manually collected volcano data [Data set]. GNS Science. doi:10.21420/PSP7-KW60?x=y
+
 ## References
 
 The following references provide some background information on soil gas measurements and how the data are commonly used:
