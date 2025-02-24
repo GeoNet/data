@@ -20,6 +20,7 @@ Each folder is a self contained dataset, which includes:
 | [strong motion flatfiles](nzsmd-flatfiles) | Compilation of specially-processed strong motion data and associated metadata|
 | [Volcanic Alert Levels](volcanic-alert-levels) | Changes in Volcanic Alert Level (VAL) at New Zealand volcanoes |
 | [Historic Volcanic Activity](historic-volcanic-activity) | Catalogues of historic volcanic activity at New Zealand volcanoes |
+| [Soil Gas](soil-gas) | Soil gas observations from selected New Zealand volcanoes |
 
 Note: The GeoNet website refers to the main branch for downloading this data through the website. Everything in the main branch requires review. Other branches might have more up to date information that is awaiting review and merging with main.
 
