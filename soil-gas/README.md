@@ -18,9 +18,8 @@ Each file in this repository contains the data collected from one survey of one 
 ### Filenames
 A filename consists of three parts:
 - The volcano name, e.g "MoutohoraWhaleIsland". If both Te Reo and English names are commonly used for the volcano, the Te Reo name is followed by the English name. There are no spaces in the volcano name, and no macrons are used for Te Reo names.
-- The date the data were collected, e.g. "2025-01-29". This uses local time (NZST or NZDT). The date is separated from the volcano name by an underscore “\_”.
+- The date the data were collected, e.g. "2025-01-29". This uses local time (NZST or NZDT). The date is separated from the volcano name by an underscore “\_”. If the data are sampled over multiple days, the convention `start-date_end-date` is used instead of `sample-date`.
 - A “csv” suffix. This indicates a CSV file format. The suffix is separated from the date by a dot “.”.
-If measurements were carried out over more than one day, but are considered by the VMG  to represent a single dataset, they are provided as a single file without highlighting which observations were made on which day. However, the date part of the filename shows both measurement dates.
 
 ### Data Fields
 | Field | Description |
@@ -33,7 +32,7 @@ If measurements were carried out over more than one day, but are considered by t
 | H2S | Hydrogen sulphide (H<sub>2</sub>S) flux, in units of g/m<sup>2</sup>/day (grams per square metre per day). Not present if hydrogen sulphide data were not collected. |
 | GroundTemperature | Temperature of the ground at a depth of approximately 10 cm, in units of <sup>o</sup>C (degrees Celsius). |
 
-If no measurement was made, the corresponding field is empty. A zero flux indicates a measurement was made, but no gas was observed.
+CO<sub>2</sub> is always measured, but depending in the date of the observations and the equipment used, H<sub>2</sub>S and CH<sub>4</sub> may not have been measured. If no measurement was made, the corresponding field is empty. A zero flux indicates a measurement was made, but no gas was observed.
 
 ## Citation
 
