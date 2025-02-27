@@ -1,0 +1,54 @@
+# TOML format -------------------------------------------------------------
+# Contains Finite Source Parameters meta data 
+# -------------------------------------------------------------------------
+[model]
+ citation  = '[Hamling et al.(2014)]'
+ reference = 'Hamling, I.J., D Anastasio, E., Wallace, L.M., Ellis, S., Motagh, M., Samsonov, S., Palmer, N. and Hreinsdóttir, S., 2014. Crustal deformation and stress transfer during a propagating earthquake sequence: The 2013 Cook Strait sequence, central New Zealand. Journal of Geophysical Research: Solid Earth, 119(7), pp.6080-6092.'
+ 
+[event]
+ region    = 'Lake Grassmere, New Zealand'
+ public_ids = '2013p051675'
+ evdate    = [16, 8, 2013]  # [dd, mm, yyyy]
+
+[source]   # most can be retrived from the model file.
+ Mw        = 6.6
+ Mo        = nan
+ evlat     = -41.730
+ evlon     = 174.150
+ evdep     = 8.0
+ rlength   = nan
+ rwidth    = nan
+ strike    = nan
+ dip       = nan
+ rake      = nan
+ hypX      = nan
+ hypZ      = nan
+ htop      = nan 
+ avTr      = nan
+ avVr      = nan
+ 
+[inversion]
+ Nseg      = nan
+ Nx        = nan
+ Nz        = nan
+ Dx        = nan
+ Dz        = nan
+ Ntw       = nan
+ SHF       = nan
+ Fmin      = nan
+ Fmax      = nan
+ SVF       = 'Unknown'
+ LEN       = nan
+
+[inversion.data]
+ type      = ['SGM', 'TELE', 'GPS', 'INSAR', 'OTHER']
+ count     = [0,    0,     7,     2,     0]
+ PHImx     = [0,    0,     -999,     -999,     0]
+ Rmin      = [0,    0,     -999,     -999,     0] 
+
+[inversion.cruststruct]
+ nlayers   =  nan 
+ model     = 'See the reference'
+ 
+ 
+ 
