@@ -11,7 +11,7 @@
 % ---------------------------------  inversion-related parameters  ----------------------------
 %
 % Invs : Nx  =  14 	Nz  =  10 	Fmin = nan Hz 	 Fmax = nan Hz
-% Invs : Dx  =  10.0000 km 	 Dz  = 5.0000 km 
+% Invs : Dx  =  10.00 km 	 Dz  = 5.00 km 
 % Invs : Ntw  =  nan	Nsg  = 1      (# of time-windows,# of fault segments)
 % Invs : LEN  =  33.00    SHF  = nan s     (time-window length and time-shift)
 % SVF  : B-splines              (type of slip-velocity function used)
@@ -30,7 +30,7 @@
 % 999
 %
 % --------------------------------------------------------------------------------------------------
-% Feb-11-2025, created by Kiran (thingbaijam@gmail.com)
+% Jan-27-2025, created by Kiran (thingbaijam@gmail.com)
 % --------------------------------------------------------------------------------------------------
 %% SOURCE MODEL PARAMETERS
 %   Nsbfs =  140 subfaults

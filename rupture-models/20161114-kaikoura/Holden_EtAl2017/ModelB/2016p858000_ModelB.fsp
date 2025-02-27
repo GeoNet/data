@@ -1,6 +1,6 @@
 % ----------------------------------  FINITE-SOURCE RUPTURE MODEL  --------------------------------
 %
-% Event : Kaikoura		11/14/2016        [Holden et al.(2017)]
+% Event : Kaikoura		11/13/2016        [Holden et al.(2017)]
 % EventTAG: 2016p858000
 % 
 % Loc  : LAT = -42.5951            LON = 173.0080           DEP = 6.25
@@ -30,7 +30,7 @@
 % 999
 %
 % --------------------------------------------------------------------------------------------------
-% Feb-11-2025, created by Kiran (thingbaijam@gmail.com)
+% Jan-29-2025, created by Kiran (thingbaijam@gmail.com)
 % --------------------------------------------------------------------------------------------------
 %% SOURCE MODEL PARAMETERS
 %  	 X,Y,Z coordinates in km; SLIP in m
