@@ -1,0 +1,54 @@
+# TOML format -------------------------------------------------------------
+# Contains Finite Source Parameters meta data 
+# -------------------------------------------------------------------------
+[model]
+ citation  = '[Fry et al.(2010)]'
+ reference = 'Fry, B., Bannister, S., Beavan, J., Bland, L., Bradley, B., Cox, S., Cousins, J., Gale, N., Hancox, G., Holden, C. and Jongens, R., 2010. The Mw 7.6 Dusky sound earthquake of 2009: Preliminary report.'
+ 
+[event]
+ region    = 'Dusky Sound, New Zealand'
+ public_ids = '3124785'
+ evdate    = [15, 7, 2009]  # [dd, mm, yyyy]
+
+[source]   # most can be retrived from the model file.
+ Mw        = 7.8
+ Mo        = 2.72E+20 
+ evlat     = -45.770
+ evlon     = 166.590
+ evdep     = 38.0
+ rlength   = nan
+ rwidth    = nan
+ strike    = nan
+ dip       = nan
+ rake      = nan
+ hypX      = nan
+ hypZ      = nan
+ htop      = nan 
+ avTr      = nan
+ avVr      = nan
+ 
+[inversion]
+ Nseg      = nan
+ Nx        = nan
+ Nz        = nan
+ Dx        = nan
+ Dz        = nan
+ Ntw       = nan
+ SHF       = nan
+ Fmin      = 0.01
+ Fmax      = 0.10
+ SVF       = 'Unknown'
+ LEN       = nan
+
+[inversion.data]
+ type      = ['SGM', 'TELE', 'GPS', 'INSAR', 'OTHER']
+ count     = [4,    0,     0,     0,     0]
+ PHImx     = [-999,    0,     0,    0,     0]
+ Rmin      = [-999,    0,     0,     0,     0] 
+
+[inversion.cruststruct]
+ nlayers   =  nan 
+ model     = 'See the reference'
+ 
+ 
+ 

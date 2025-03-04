@@ -1,0 +1,54 @@
+# TOML format ---------------------------------------------------------------
+# Contains Finite Source Parameters (FSP) meta data
+# -----------------------------------------------------------------------------
+[model]
+ citation  = '[Okuwaki et al.(2021)]'
+ reference = 'Okuwaki, R., Hicks, S.P., Craig, T.J., Fan, W., Goes, S., Wright, T.J. and Yagi, Y., 2021. Illuminating a contorted slab with a complex intraslab rupture evolution during the 2021 Mw 7.3 East Cape, New Zealand earthquake. Geophysical Research Letters, 48(24), p.e2021GL095117.'
+ 
+[event]
+ region    = 'East Cape, New Zealand'
+ public_ids = '2021p169083'
+ evdate    = [5, 3, 2021]  # [dd, mm, yyyy]
+
+[source]   # most of these can be retrived from the model file.
+ Mw        = 7.3
+ Mo        = nan
+ evlat     = -37.466
+ evlon     = 179.774
+ evdep     = 72.00
+ rlength   = nan
+ rwidth    = nan
+ strike    = nan
+ dip       = nan
+ rake      = nan
+ hypX      = nan
+ hypZ      = nan
+ htop      = nan 
+ avTr      = nan
+ avVr      = nan
+ 
+ [inversion]
+ Nseg      = nan
+ Nx        = nan
+ Nz        = nan
+ Dx        = nan
+ Dz        = nan
+ Ntw       = nan
+ SHF       = nan
+ Fmin      = nan
+ Fmax      = nan
+ SVF       = 'B-splines'
+ LEN       = 33
+
+[inversion.data]
+type       = ['SGM', 'TELE', 'GPS', 'INSAR', 'OTHER']
+count      = [ 0,     55,     0,     0,     0]
+PHImx      = [ 0,    -999,    0,     0,     0]
+Rmin       = [ 0,    -999,    0,     0,     0] 
+
+[inversion.cruststruct]
+nlayers    = nan 
+model      = 'See the reference'
+ 
+ 
+ 

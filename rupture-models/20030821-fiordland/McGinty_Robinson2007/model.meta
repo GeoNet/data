@@ -1,0 +1,54 @@
+# TOML format -------------------------------------------------------------
+# Contains Finite Source Parameters meta data 
+# -------------------------------------------------------------------------
+[model]
+ citation  = '[McGinty and Robinson (2007)]'
+ reference = 'McGinty, P. and Robinson, R. (2007). The 2003 Mw 7.2 Fiordland subduction earthquake, New Zealand: aftershock distribution, main shock fault plane and static stress changes on the overlying Alpine Fault. Geophysical Journal International, 169(2), 579-592, https://doi.org/10.1111/j.1365-246X.2007.03336.x.'
+ 
+[event]
+ region    = 'Fiordland, New Zealand'
+ public_ids = '2103645'
+ evdate    = [21, 8, 2003]  # [dd, mm, yyyy]
+
+[source]   # most can be retrived from the model file.
+ Mw        = 7.2
+ Mo        = 7.48E+20 
+ evlat     = -45.29
+ evlon     = 166.87
+ evdep     = 24
+ rlength   = nan
+ rwidth    = nan
+ strike    = nan
+ dip       = nan
+ rake      = nan
+ hypX      = nan
+ hypZ      = nan
+ htop      = nan 
+ avTr      = nan
+ avVr      = nan
+ 
+[inversion]
+ Nseg      = nan
+ Nx        = nan
+ Nz        = nan
+ Dx        = nan
+ Dz        = nan
+ Ntw       = nan
+ SHF       = nan
+ Fmin      = 0.01
+ Fmax      = 0.10
+ SVF       = 'Unknown'
+ LEN       = nan
+
+[inversion.data]
+ type      = ['SGM', 'TELE', 'GPS', 'INSAR', 'OTHER']
+ count     = [0,    0,     0,     0,     0]
+ PHImx     = [0,    0,     0,    0,     0]
+ Rmin      = [0,    0,     0,     0,     0] 
+
+[inversion.cruststruct]
+ nlayers   =  nan 
+ model     = 'See the reference'
+ 
+ 
+ 

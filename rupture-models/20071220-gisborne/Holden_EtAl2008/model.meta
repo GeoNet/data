@@ -1,0 +1,54 @@
+# TOML format -------------------------------------------------------------
+# Contains Finite Source Parameters meta data 
+# -------------------------------------------------------------------------
+[model]
+ citation  = '[Holden et al.(2008)]'
+ reference = 'François-Holden, C., Bannister, S., Beavan, J., Cousins, J., Field, B., McCaffrey, R., McVerry, G., Reyners, M., Ristau, J. and Samsonov, S. (2008). "The Mw 6.6 Gisborne earthquake of 2007: Preliminary records and general source characterisation". Bulletin of the New Zealand Society for Earthquake Engineering, 41(4), 266-277, https://doi.org/10.5459/bnzsee.41.4.266-277.'
+ 
+[event]
+ region    = 'Gisborne, New Zealand'
+ public_ids = '2839343'
+ evdate    = [20, 12, 2007]  # [dd, mm, yyyy]
+
+[source]   # most can be retrived from the model file.
+ Mw        = 6.6
+ Mo        = 1.65E+19 
+ evlat     = -38.890
+ evlon     = 178.540
+ evdep     = 40.0
+ rlength   = nan
+ rwidth    = nan
+ strike    = nan
+ dip       = nan
+ rake      = nan
+ hypX      = nan
+ hypZ      = nan
+ htop      = nan 
+ avTr      = nan
+ avVr      = nan
+ 
+[inversion]
+ Nseg      = nan
+ Nx        = nan
+ Nz        = nan
+ Dx        = nan
+ Dz        = nan
+ Ntw       = nan
+ SHF       = nan
+ Fmin      = 0.01
+ Fmax      = 0.10
+ SVF       = 'Unknown'
+ LEN       = nan
+
+[inversion.data]
+ type      = ['SGM', 'TELE', 'GPS', 'INSAR', 'OTHER']
+ count     = [12,    0,     0,     0,     0]
+ PHImx     = [-999,    0,     0,    0,     0]
+ Rmin      = [-999,    0,     0,     0,     0] 
+
+[inversion.cruststruct]
+ nlayers   =  nan 
+ model     = 'See the reference'
+ 
+ 
+ 

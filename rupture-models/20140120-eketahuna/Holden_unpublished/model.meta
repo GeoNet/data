@@ -1,0 +1,54 @@
+# TOML format -------------------------------------------------------------
+# Contains Finite Source Parameters meta data 
+# -------------------------------------------------------------------------
+[model]
+ citation  = '[Holden (unpublished)]'
+ reference = 'Holden (unpublished), also see Van Houtte, C., Bannister, S., Holden, C., Bourguignon, S. and McVerry, G., 2017. The New Zealand strong motion database. Bulletin of the New Zealand Society for Earthquake Engineering, 50(1), pp.1-20.'
+ 
+[event]
+ region    = 'Eketahuna, New Zealand'
+ public_ids = '2014p051675'
+ evdate    = [20, 1, 2014]  # [dd, mm, yyyy]
+
+[source]   # most can be retrived from the model file.
+ Mw        = 6.31
+ Mo        = nan
+ evlat     = -40.6202
+ evlon     = 175.8650
+ evdep     = 34.0
+ rlength   = nan
+ rwidth    = nan
+ strike    = 213
+ dip       = 56
+ rake      = 247
+ hypX      = nan
+ hypZ      = nan
+ htop      = nan 
+ avTr      = nan
+ avVr      = nan
+ 
+[inversion]
+ Nseg      = nan
+ Nx        = nan
+ Nz        = nan
+ Dx        = nan
+ Dz        = nan
+ Ntw       = nan
+ SHF       = nan
+ Fmin      = nan
+ Fmax      = nan
+ SVF       = 'Unknown'
+ LEN       = nan
+
+[inversion.data]
+ type      = ['SGM', 'TELE', 'GPS', 'INSAR', 'OTHER']
+ count     = [-999,    0,     0,     0,     0]
+ PHImx     = [-999,    0,     0,     0,     0]
+ Rmin      = [-999,    0,     0,     0,     0] 
+
+[inversion.cruststruct]
+ nlayers   =  nan 
+ model     = 'See the reference'
+ 
+ 
+ 
