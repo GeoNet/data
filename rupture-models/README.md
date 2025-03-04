@@ -10,20 +10,20 @@ The following lists the earthquakes.
 
 | Date       | Event                     | PublicID                                 |
 | ---------- | ------------------------- | ---------------------------------------- |
-| 05/03/2021 | [East Cape M7.3](20210305-east-cape)                | [2021p169083](https://www.geonet.org.nz/quakes/region/newzealand/2021p169083)
-| 14/11/2016 | [Kaikoura M7.9](20161114-kaikoura)                | [2016p858000](https://www.geonet.org.nz/quakes/region/newzealand/2016p858000)
-| 14/02/2016 | [Christchurch M5.7](20160214-christchurch)                | [2016p118944](https://www.geonet.org.nz/quakes/region/newzealand/2016p118944)
-| 20/01/2014 | [Eketahuna M6.3](20140120-eketahuna)                | [2014p051675](https://www.geonet.org.nz/quakes/region/newzealand/2014p051675)
-| 16/08/2013 | [Lake Grassmere M6.6](20130816-lake-grassmere)                | [2013p051675](https://www.geonet.org.nz/quakes/region/newzealand/2013p051675)
-| 21/07/2013 | [Cook Strait M6.6](20130721-cook-strait)                | [2013p543824](https://www.geonet.org.nz/quakes/region/newzealand/2013p543824)
-| 23/12/2011 | [Christchurch M6.1](20111223-christchurch)                | [3631380](https://www.geonet.org.nz/quakes/region/newzealand/3631380) and  [3631359](https://www.geonet.org.nz/quakes/region/newzealand/3631359)
-| 13/06/2011 | [Christchurch M6.0](20110613-christchurch)                | [3528839](https://www.geonet.org.nz/quakes/region/newzealand/3528839)
-| 22/02/2011 | [Christchurch M6.2](20110222-christchurch)                | [3468575](https://www.geonet.org.nz/quakes/region/newzealand/3468575)
-| 04/09/2010 | [Darfield M7.2](20100904-darfield)                | [3366146](https://www.geonet.org.nz/quakes/region/newzealand/3366146)
-| 15/07/2009 | [Dusky Sound M7.8](20090715-dusky-sound)                | [3124785](https://www.geonet.org.nz/quakes/region/newzealand/3124785)
-| 20/12/2007 | [Gisborne M6.6](20071220-gisborne)                | [2839343](https://www.geonet.org.nz/quakes/region/newzealand/2839343)
-| 15/10/2007 | [George Sound M6.7](20071015-george-sound)                | [2808298](https://www.geonet.org.nz/quakes/region/newzealand/2808298)
-| 21/08/2003 | [Fiordland M7.2](20030821-fiordland)                | [2103645](https://www.geonet.org.nz/quakes/region/newzealand/2103645)
+| 21/08/2003 | [Fiordland M7.2](20030821-fiordland)                | [2103645](https://www.geonet.org.nz/earthquake/2103645)
+| 15/10/2007 | [George Sound M6.7](20071015-george-sound)                | [2808298](https://www.geonet.org.nz/earthquake/2808298)
+| 20/12/2007 | [Gisborne M6.6](20071220-gisborne)                | [2839343](https://www.geonet.org.nz/earthquake/2839343)
+| 15/07/2009 | [Dusky Sound M7.8](20090715-dusky-sound)                | [3124785](https://www.geonet.org.nz/earthquake/3124785)
+| 04/09/2010 | [Darfield M7.2](20100904-darfield)                | [3366146](https://www.geonet.org.nz/earthquake/3366146)
+| 22/02/2011 | [Christchurch M6.2](20110222-christchurch)                | [3468575](https://www.geonet.org.nz/earthquake/3468575)
+| 13/06/2011 | [Christchurch M6.0](20110613-christchurch)                | [3528839](https://www.geonet.org.nz/earthquake/3528839)
+| 23/12/2011 | [Christchurch M6.1](20111223-christchurch)                | [3631380](https://www.geonet.org.nz/earthquake/3631380) and  [3631359](https://www.geonet.org.nz/earthquake/3631359)
+| 21/07/2013 | [Cook Strait M6.6](20130721-cook-strait)                | [2013p543824](https://www.geonet.org.nz/earthquake/2013p543824)
+| 16/08/2013 | [Lake Grassmere M6.6](20130816-lake-grassmere)                | [2013p051675](https://www.geonet.org.nz/earthquake/2013p051675)
+| 20/01/2014 | [Eketahuna M6.3](20140120-eketahuna)                | [2014p051675](https://www.geonet.org.nz/earthquake/2014p051675)
+| 14/02/2016 | [Christchurch M5.7](20160214-christchurch)                | [2016p118944](https://www.geonet.org.nz/earthquake/2016p118944)
+| 14/11/2016 | [Kaikoura M7.9](20161114-kaikoura)                | [2016p858000](https://www.geonet.org.nz/earthquake/2016p858000)
+| 05/03/2021 | [East Cape M7.3](20210305-east-cape)                | [2021p169083](https://www.geonet.org.nz/earthquake/2021p169083)
 
 
 ### File Formats
