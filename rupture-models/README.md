@@ -19,7 +19,7 @@ The following lists the earthquakes.
 | 13/06/2011 | [Christchurch M6.0](20110613-christchurch)                | [3528839](https://www.geonet.org.nz/earthquake/3528839)
 | 23/12/2011 | [Christchurch M6.1](20111223-christchurch)                | [3631380](https://www.geonet.org.nz/earthquake/3631380) and  [3631359](https://www.geonet.org.nz/earthquake/3631359)
 | 21/07/2013 | [Cook Strait M6.6](20130721-cook-strait)                | [2013p543824](https://www.geonet.org.nz/earthquake/2013p543824)
-| 16/08/2013 | [Lake Grassmere M6.6](20130816-lake-grassmere)                | [2013p051675](https://www.geonet.org.nz/earthquake/2013p051675)
+| 16/08/2013 | [Lake Grassmere M6.6](20130816-lake-grassmere)                | [2013p613797](https://www.geonet.org.nz/earthquake/2013p613797)
 | 20/01/2014 | [Eketahuna M6.3](20140120-eketahuna)                | [2014p051675](https://www.geonet.org.nz/earthquake/2014p051675)
 | 14/02/2016 | [Christchurch M5.7](20160214-christchurch)                | [2016p118944](https://www.geonet.org.nz/earthquake/2016p118944)
 | 14/11/2016 | [Kaikoura M7.9](20161114-kaikoura)                | [2016p858000](https://www.geonet.org.nz/earthquake/2016p858000)
