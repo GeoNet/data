@@ -7,7 +7,7 @@
  
 [event]
  region    = 'Lake Grassmere, New Zealand'
- public_ids = '2013p051675'
+ public_ids = '2013p613797'
  evdate    = [16, 8, 2013]  # [dd, mm, yyyy]
 
 [source]   # most can be retrived from the model file.

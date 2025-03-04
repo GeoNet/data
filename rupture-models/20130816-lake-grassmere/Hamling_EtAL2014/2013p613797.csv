@@ -1,4 +1,4 @@
-segment,lon (deg),lat (deg),depth (m),slip (m),strike (deg),dip (deg),rake (deg),rupture time (s),length (m),width (m)
+segment,lon,lat,depth,slip,strike,dip,rake,rupturetime,length,width
 1,174.323,-41.6509,0.0,0.04428,234.0,74.9,90.0, ,1000.0,1035.762
 1,174.3212,-41.6489,1000000.0,0.04593,234.0,74.9,110.92, ,1000.0,1035.762
 1,174.3194,-41.6468,2000000.0,0.05468,234.0,74.9,126.6, ,1000.0,1035.762
