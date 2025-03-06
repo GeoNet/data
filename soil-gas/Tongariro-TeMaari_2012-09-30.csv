@@ -1,4 +1,4 @@
-MeasurementNumber,NZTM-mE,NZTM-mN,CO2,CH4,H2S,GroundTemperature
+MeasurementNumber,NZTM-mE,NZTM-mN,CO2,GroundTemperature
 006,1831045,5667585,508.94,42.0
 008,1831052,5667603,15.94,23.4
 009,1831069,5667601,133.22,25.9

@@ -17,7 +17,7 @@ The original data are stored as Excel spreadsheets by the VMG at GNS Science. Th
 
 The number of digits shown to the right of the decimal point in original Excel spreadsheet flux files was not consistent. CSV files have the same number of digits to the right of the decimal point as in the corresponding spreadsheet. Ground temperatures are typically shown with one digit to the right of the decimal point.
 
-In a limited number of cases, CO<sub>2</sub> measurements were made with the accumulation chamber floating on the surface of a lake. Lake and ground observations can be combined to map gas emission rates without any further modifications. In the case of data from Taupo-Horomatangi, absorption of CO<sub>2</sub> by the lake water resulted in the concentration of CO<sub>2</sub> in lake water being lower than in the air, which in turn, resulted in negative fluxes.
+In a limited number of cases, CO<sub>2</sub> measurements were made with the accumulation chamber floating on the surface of a lake. Lake and ground observations can be combined to map gas emission rates without any further modifications. In the case of data from Taupo-Horomatangi, absorption of CO<sub>2</sub> by the lake water resulted in the concentration of CO<sub>2</sub> in lake water being lower than in the air, which in turn, resulted in negative fluxes (Lohila et al. 2015 and Mazot et al. 2014).
 
 ## Description of Files and Data Fields
 Each file in this repository contains the data collected from one survey of one volcanic area. Files are in CSV (comma-separated values) format.
@@ -31,7 +31,7 @@ A filename consists of three parts:
 ### Data Fields
 | Field | Description |
 | --- | --- |
-| MeasurementNumber | A number assigned to a measurement location. Measurement numbers from one survey (data file) have no relation to measurement numbers from another survey (data file). |
+| MeasurementNumber | A number, or letters and numbers, assigned to a measurement location. Measurement numbers from one survey (data file) have no relation to measurement numbers from another survey (data file). Measurement numbers are the same as used in the original spreadsheets to preserve the link with those files. |
 | NZTM-mE | New Zealand Transverse Mercator projection East coordinate, in units of metres. |
 | NZTM-mN | New Zealand Transverse Mercator projection North coordinate, in units of metres. |
 | CO2 | Carbon dioxide (CO<sub>2</sub>) flux, in units of g/m<sup>2</sup>/day (grams per square metre per day). |
@@ -56,5 +56,7 @@ GNS Science. (1954). GeoNet Aotearoa New Zealand manually collected volcano data
 The following references provide some background information on soil gas measurements and how the data are commonly used:
 
  - Cardellini, C., G. Chiodini, and F. Frondini, 2003. Application of stochastic simulation to CO2 flux from soil: Mapping and quantification of gas release, J. Geophys. Res., 108(B9), 2425, [doi:10.1029/2002JB002165](doi:10.1029/2002JB002165).
+ - Lohila, Annalea & Tuovinen, J.-P & Hatakka, Juha & Aurela, Mika & Vuorenmaa, Jussi & Haakana, Markus & Laurila, Tuomas, 2015. Carbon dioxide and energy fluxes over a northern boreal lake. Boreal Environment Research. 20. 474-488. 
+ - Mazot, A., F. M. Schwandner, B. Christenson, C. E. J. de Ronde, S. Inguaggiato, B. Scott, D. Graham, K. Britten, J. Keeman, and K. Tan (2014), CO2 discharge from the bottom of volcanic Lake Rotomahana, New Zealand, Geochem. Geophys. Geosyst., 15, 577–588, [doi:10.1002/2013GC004945](doi:10.1002/2013GC004945).
 - Werner, C. and Cardellini, C., 2006. Comparison of carbon dioxide emissions with fluid upflow, chemistry, and geologic structures at the Rotorua geothermal system, New Zealand. Geothermics, 35, [doi.org/10.1016/j.geothermics.2006.02.006](doi.org/10.1016/j.geothermics.2006.02.006).
  - Yang, T.H.J., Chambefort, I., Rowe, M., Mazot, A., Seward, A., Werner, C., Fischer, T., Seastres, J., Siega, F., Macdonald, N. and Brakenrig, T., 2024. Variability in surface CO2 flux: Implication for monitoring surface emission from geothermal fields. Geothermics, 120, [doi.org/10.1016/j.geothermics.2024.102981](doi.org/10.1016/j.geothermics.2024.102981).
