@@ -1,0 +1,54 @@
+# TOML format -------------------------------------------------------------
+# Contains Finite Source Parameters meta data 
+# -------------------------------------------------------------------------
+[model]
+ citation  = '[Kaiser et al.(2016)]'
+ reference = 'Kaiser, A., Holden, C., Hamling, I., et al. (2016). The 2016 Valentine Day Mw5.7 Christchurch earthquake: preliminary report. In Proceedings of Conference of the New Zealand Society for Earthquake Engineering, Paper number O-20, Christchurch, New Zealand, 1-3 April 2016.'
+ 
+[event]
+ region    = 'Christchurch, New Zealand'
+ public_ids = '2016p118944'
+ evdate    = [14, 2, 2016]  # [dd, mm, yyyy]
+
+[source]   # most can be retrived from the model file.
+ Mw        = 5.7
+ Mo        = 7.90E+17
+ evlat     = -43.5000
+ evlon     = 172.7500
+ evdep     = 15.0
+ rlength   = nan
+ rwidth    = nan
+ strike    = nan
+ dip       = nan
+ rake      = nan
+ hypX      = nan
+ hypZ      = nan
+ htop      = nan 
+ avTr      = nan
+ avVr      = nan
+ 
+[inversion]
+ Nseg      = nan
+ Nx        = nan
+ Nz        = nan
+ Dx        = nan
+ Dz        = nan
+ Ntw       = nan
+ SHF       = nan
+ Fmin      = nan
+ Fmax      = nan
+ SVF       = 'Unknown'
+ LEN       = nan
+
+[inversion.data]
+ type      = ['SGM', 'TELE', 'GPS', 'INSAR', 'OTHER']
+ count     = [13,    0,     0,     0,     0]
+ PHImx     = [-999,    0,     0,     0,     0]
+ Rmin      = [-999,    0,     0,     0,     0] 
+
+[inversion.cruststruct]
+ nlayers   =  nan 
+ model     = 'See the reference'
+ 
+ 
+ 
