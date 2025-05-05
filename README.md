@@ -19,6 +19,7 @@ Each folder is a self contained dataset, which includes:
 | [strong motion peaks](strong-motion-peaks) | summary files of peak strong motion measurements |
 | [strong motion flatfiles](nzsmd-flatfiles) | Compilation of specially-processed strong motion data and associated metadata|
 | [Volcanic Alert Levels](volcanic-alert-levels) | Changes in Volcanic Alert Level (VAL) at New Zealand volcanoes |
+| [Aviation Colour Codes](aviation-colour-codes) | Changes in Aviation Colour Code (ACC) at New Zealand volcanoes |
 | [Historic Volcanic Activity](historic-volcanic-activity) | Catalogues of historic volcanic activity at New Zealand volcanoes |
 | [Soil Gas](soil-gas) | Soil gas observations from selected New Zealand volcanoes |
 
