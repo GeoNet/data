@@ -1,8 +1,8 @@
 # Past-catalogue-entries
-This dataset is a record of some past entries of the CUSP earthquake catalogue datbase as imported and recorded in a former open AWS event bucket "s3://seiscompml06-bucket-sskhju471z6g/". The bucket is inactive since 2013. 
+This dataset is a record of some past entries of the CUSP earthquake catalogue database as imported and recorded in a former open AWS event bucket "s3://seiscompml06-bucket-sskhju471z6g/". The bucket is inactive since 2013. 
 
 ## Event Dataset description
-This dataset is an events listing classified as "other" without any magnitudes associated. The numerous eveanst are located worldwide and poorly informed  and compatible to our current information systems. Hence they are excluded from our present catalogues but listing and archived event seiscomp xml format can be found here instead.
+This dataset is an events listing classified as "other" without any magnitudes associated. The numerous events are located worldwide and poorly informed and not compatible to our current information systems. Hence they are excluded from our present catalogues but listing and archived event seiscomp xml format can be found here instead.
 
 Only Events without magnitude information of type "other are listed here.
 
