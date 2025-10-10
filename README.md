@@ -14,6 +14,7 @@ Each folder is a self contained dataset, which includes:
 | [DART Triggers](dart-triggers) | Catalogue of automatic triggers detected by the DART Network |
 | [Moment Tensors](moment-tensor) | Moment tensor solutions for earthquakes in New Zealand (generally M>4) |
 | [NZ Local magnitudes](MLNZ20) | New Zealand MLNZ20 event local magnitude _evaluation dataset_ |
+| [Past CUSP events catalogue "other" entries ](past-catalogue-entries) | Catalogue of past type:"other" events without observed Magnitudes | 
 | [site class](site-class)    | information on site class/characteristics for geonet sites  |
 | [rupture models](rupture-models) | seismic and geodetic fault models for significant earthquakes |
 | [strong motion peaks](strong-motion-peaks) | summary files of peak strong motion measurements |
