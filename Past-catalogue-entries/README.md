@@ -4,9 +4,9 @@ This dataset is a record of some past entries of the CUSP earthquake catalogue d
 ## Event Dataset description
 This dataset is an events listing classified as "other" without any magnitudes associated. The numerous events are located worldwide and poorly informed and not compatible to our current information systems. Hence they are excluded from our present catalogues but listing and archived event seiscomp xml format can be found here instead.
 
-Only Events without magnitude information of type "other are listed here.
+Only Events with _No magnitude information and fromtype "other"_ are listed here.
 
-The Past "other" events dataset is covering years from 1942 to 2011. It has about 28000  entries which locationis are spread wordlwide.  
+The Past "other" events dataset is covering years from 1942 to 2011. It has about 28000 entries which locations are spread wordlwide. The data set conssits of a listing in a '.csv' format and a tar files of seiscomp xml events.  
 
 Fields | Description |
 -------| ----------- |
@@ -29,5 +29,5 @@ EventType | type "other" (mix bag)
 This is a work to make former records archived and accessible to the community as a limited information though in a  machine readable format.
 
 ### Reference Papers
-No reference clearly identified - CUSP Pre 2012 Database. GNS/GeoNet
-Seiscomp format information reference:  https://docs.gempa.de/seiscomp/current/ 
+CUSP Pre 2012 Database. GNS/GeoNet.
+Seiscomp format information reference: https://docs.gempa.de/seiscomp/current/ 
