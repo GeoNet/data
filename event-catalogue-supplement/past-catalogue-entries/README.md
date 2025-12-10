@@ -1,5 +1,5 @@
 # Past-catalogue-entries supplement
-This dataset is a record of some past entries of the CUSP earthquake catalogue database as imported and recorded in a former open AWS "s3://" bucket. The bucket is inactive since 2013. 
+This dataset is a record of some past entries of the CUSP earthquake catalogue database inactive since 2013. 
 
 ## Event Dataset description
 This dataset is an event listing classified as "other" without any magnitudes associated. The numerous events are located worldwide and poorly informed and not compatible to our current information systems. Hence they are excluded from our present catalogues but listing and short summary can be found here instead. The original seiscomp xml dataset is available on-demand.
