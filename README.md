@@ -17,6 +17,7 @@ Each folder is a self contained dataset, which includes:
 | [Past CUSP events catalogue "other" entries ](event-catalogue-supplement/past-catalogue-entries) | Catalogue of past type:"other" events without observed Magnitudes | 
 | [site class](site-class)    | information on site class/characteristics for geonet sites  |
 | [rupture models](rupture-models) | seismic and geodetic fault models for significant earthquakes |
+| [velocity models](velocity-models) | seismic phases velocity models for diverse NZ tectonic areas |
 | [strong motion peaks](strong-motion-peaks) | summary files of peak strong motion measurements |
 | [strong motion flatfiles](nzsmd-flatfiles) | Compilation of specially-processed strong motion data and associated metadata|
 | [Volcanic Alert Levels](volcanic-alert-levels) | Changes in Volcanic Alert Level (VAL) at New Zealand volcanoes |
